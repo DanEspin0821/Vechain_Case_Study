@@ -22,19 +22,19 @@
 
 * VeChain’s vision and goal innovating in blockchain is to lower the barrier of entry for businesses and enabling established business with blockchain technology to create value and solve real world economic problems, according to their Whitepaper.
 
-* VeChain started business engagement for blockchain use cases and implemented the first blockchain solution of anti-counterfeiting and traceability for luxury products in early 2016.
+* VeChain started business engagement for blockchain use cases implementing the first blockchain solution of anti-counterfeiting and traceability for luxury products in early 2016.
 
 * Prior to the creation of the public blockchain technology and even now, the cost of “trust” itself is very significant to all business stakeholders. The inherent lack of trust between parties discussed earlier meant that 3rd party trust providers are needed to facilitate transactions between multiple parties. This is where the multi-hundred billion dollar industry of C.T.I. (Certifications, Testing, Inspection) had been built to add lubrication to business communications and transactions.
 
-The industry is currently led by giants such as DNV GL, SGS, Intertek, NQA, etc. or accounting/consulting firms such as PwC, and Deloitte, and much much more. At the core, these organizations sell their reputation for a living and are literally the embodiment of trust in business.
+* The industry is currently led by giants such as DNV GL, SGS, Intertek, NQA as well as consulting firms such as PricewaterhouseCoopers, and Deloitte.  These organizations sell their reputation and harbor an embodiment of trust in business.
 
-However, even these giants face the same issues with regards to data storage, management and this is where public blockchain comes into play.
+* However, these firms known to partner with large financial and tech firms alike, face the same issues with data storage, data management; this is where VeChain has built its niche and reputation.
 
-Data written on the blockchain itself is immutable, making data quality a key concern for businesses looking to utilize public blockchain. Even so, these data points can not be trusted to ensure the truthfulness of data by itself, nor can it be a quality check of what is being submitted. This is what is known as the ‘Garbage in – Garbage out’ problem that skeptical critics against blockchain argue.
+* Data written on the blockchain itself is immutable, making data quality a key concern for businesses looking to utilize public blockchain. Even so, these data points can not be trusted to ensure the truthfulness of data by itself, nor can it be a quality check of what is being submitted. This is what is known as the ‘Garbage in – Garbage out’ problem that skeptical critics against blockchain argue.
 
-VeChain has been extremely intelligent in how it addresses this age-old issue. By partnering up with key providers who are leaders of C.T.I. industries such as DNV-GL, PwC and others, companies are able to ensure the quality of theirs and their supplier’s internal processes, providing assurance for the quality of data entering the blockchain in the first instance. By guaranteeing the quality of data, enterprise clients can enable numerous new kinds of collaborative business models.
+* VeChain has been extremely intelligent in how it addresses this age-old issue. By partnering up with key providers who are leaders of C.T.I. industries such as DNV-GL, PwC and others, companies are able to ensure the quality of theirs and their supplier’s internal processes, providing assurance for the quality of data entering the blockchain in the first instance. By guaranteeing the quality of data, enterprise clients can enable numerous new kinds of collaborative business models.
 
-In summary, VeChain solves the ‘Garbage in – Garbage out’ blockchain dilemma by bringing in global leaders in assurance to guarantee data quality. This is a win-win situation for both VeChain and assurance giants as the value of trust is now transparent and enhanced for all stakeholders.
+* In summary, VeChain solves the ‘Garbage in – Garbage out’ blockchain dilemma by bringing in global leaders in assurance to guarantee data quality. This is a win-win situation for both VeChain and assurance giants as the value of trust is now transparent and enhanced for all stakeholders.
 
 * ![VeChainMarket](VeChain_Market.jpg)
 
