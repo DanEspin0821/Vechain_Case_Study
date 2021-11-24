@@ -57,7 +57,7 @@
 
 * Fee delegation and TCC open doors that simply do not exist on other networks. Most importantly, When TCC is spent, VTHO is burned, ensuring the token economics remain intact and ensuring even more value will be brought to the network in the coming years.
 
-* ![VeChainMarket](VeChain_Market.jpg)
+* ![VeChainMarket](VeChain_Market.JPG)
 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
