@@ -4,9 +4,7 @@
 
 * VeChain
 
-* Founded in June 2015.
-
-* Sunny Lu, CEO, the former chief information officer (CIO) of Louis Vuitton China.
+* Founded in June 2015, by Sunny Lu, current CEO, the former chief information officer (CIO) of Louis Vuitton China.
 
 * Sunny Lu graduated from Shanghai Jiao Tong University in China in 2002 with a BA in Electronics and Communication Engineering.
 
