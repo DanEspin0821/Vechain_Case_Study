@@ -97,3 +97,4 @@
 * https://www.vechain.org/whitepaper/#header
 * https://seekingalpha.com/amp/article/4415383-vechain-is-blockchain-investment-for-next-decade
 * https://creamandpartners.com/what-are-the-real-bottlenecks-for-blockchain-technology-adoption/
+* https://vechaininsider.com/partnerships/a-complete-list-of-vechain-partnerships/#lvmh
