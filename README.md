@@ -12,7 +12,7 @@
 
 * VeChain’s development roots can be traced to the acquaintance of Sunny and Vitalik Buterin (Founder of the Ethereum Blockchain), through the Founder of Fenbushi Capital, Shen Bo in late 2015. The discussion between the two led to Sunny’s realization of the practicality of smart contract technology. At the beginning of the venture, VeChain built its own permissioned blockchain based on the architecture of Ethereum. Later on, VeChain landed its first client from the luxury industry where Sunny used to work.
 
-* Mr. Lu learned about blockchain technology in 2013 and in the same year, he co-founded a company called BitSE. This is the company that lead to the creation of the VeChain blockchain.  The Vechain Foundation is founded in Singapore and oversees the development, governance, and advancement of the VeChain ecosystem.
+* Mr. Lu learned about blockchain technology in 2013 and in the same year, he co-founded a company called BitSE. BitSE created a subsidiary company that lead to the creation of the VeChain blockchain.  The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and is founded in Singapore.
 
 * While undisclosed from multiple sources, Vechain has recieved funding over 3 rounds. Their latest funding was raised on May 5, 2018 from a Corporate Round round. Vechain is funded by 5 investors. DNV GL and PwC are the most recent investors.
 
