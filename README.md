@@ -12,12 +12,16 @@
 
 * Sunny held jobs with [Netstar, 3M, Bacardi, and for Louis Vuitton China in 2010.](https://cryptoupclose.com/vechain-founder-sunny-lu/#:~:text=VeChain%20founder%20Sunny%20Lu%20is%20on%20a%20mission,listed%20as%20VET%20or%20VechainThor%20on%20crypto%20exchanges).
 
+### Beginnings of VeChain
 * VeChain’s development roots [can be traced](https://medium.com/vechain-foundation/special-feature-and-interview-with-vechain-ceo-sunny-lu-hosted-by-vechains-angel-investor-ee8a13e994b0) to the acquaintance of Sunny and Vitalik Buterin (Founder of the Ethereum Blockchain), through the Founder of Fenbushi Capital (one of VeChains early angel investors), Shen Bo in late 2015. The discussion between the two led to Sunny’s realization of the practicality of smart contract technology.
 
-* Mr. Lu learned about blockchain technology in 2013 and in the same year, he co-founded a company called BitSE. BitSE created a subsidiary company that lead to the creation of the VeChain blockchain. At the beginning of the venture, VeChain built its own permissioned blockchain based on the architecture of Ethereum. Later on, VeChain landed its first client from the luxury industry where Sunny used to work.  The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and is founded in Singapore.
+* Mr. Lu learned about blockchain technology in 2013 and in the same year, he [co-founded a company called BitSE](https://blockchain.capitalmarketsciooutlook.com/vendor/bitse-transforming-supply-chain-through-blockchain-cid-88-mid-17.html). BitSE created a subsidiary company that lead to the creation of the VeChain blockchain. At the beginning of the venture, VeChain built its own permissioned blockchain based on the Ethereum network as a token. Later on, moving away from the Ethereum network, Vechain migrated to their own architecture and ecosystem.
 
 
 ### VeChain's Funding and Key Persons
+
+* VeChain landed its first client from the luxury industry where Sunny used to work, Louis Vuitton.  The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and is founded in Singapore.
+
 * While undisclosed from multiple sources, Vechain has [recieved funding over 3 rounds](https://www.crunchbase.com/organization/vechain/investor_financials). Their latest funding was raised on May 5, 2018 from a Corporate Round round. Vechain is funded by 5 investors. DNV GL and PwC are the most recent investors.
 
 ## Business Activities:
