@@ -2,6 +2,8 @@
 
 ## Overview and Origin
 
+### VeChain's Early Days
+
 * VeChain
 
 * Founded in June 2015, by Sunny Lu, current CEO, the former chief information officer (CIO) of Louis Vuitton China.
