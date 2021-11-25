@@ -8,7 +8,7 @@
 
 * Sunny Lu graduated from Shanghai Jiao Tong University in China in 2002 with a BA in Electronics and Communication Engineering.
 
-* Sunny held jobs with [Netstar, 3M, Bacardi, and for Louis Vuitton China in 2010.](https://namishkhanna.github.io/newtab/?url=https://cryptoupclose.com/vechain-founder-sunny-lu/#:~:text=VeChain%20founder%20Sunny%20Lu%20is%20on%20a%20mission,listed%20as%20VET%20or%20VechainThor%20on%20crypto%20exchanges).
+* Sunny held jobs with [Netstar, 3M, Bacardi, and for Louis Vuitton China in 2010.](https://cryptoupclose.com/vechain-founder-sunny-lu/#:~:text=VeChain%20founder%20Sunny%20Lu%20is%20on%20a%20mission,listed%20as%20VET%20or%20VechainThor%20on%20crypto%20exchanges).
 
 * VeChain’s development roots can be traced to the acquaintance of Sunny and Vitalik Buterin (Founder of the Ethereum Blockchain), through the Founder of Fenbushi Capital, Shen Bo in late 2015. The discussion between the two led to Sunny’s realization of the practicality of smart contract technology. At the beginning of the venture, VeChain built its own permissioned blockchain based on the architecture of Ethereum. Later on, VeChain landed its first client from the luxury industry where Sunny used to work.
 
