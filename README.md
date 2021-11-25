@@ -16,6 +16,8 @@
 
 * Mr. Lu learned about blockchain technology in 2013 and in the same year, he co-founded a company called BitSE. BitSE created a subsidiary company that lead to the creation of the VeChain blockchain.  The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and is founded in Singapore.
 
+
+### VeChain's Funding and Key Persons
 * While undisclosed from multiple sources, Vechain has recieved funding over 3 rounds. Their latest funding was raised on May 5, 2018 from a Corporate Round round. Vechain is funded by 5 investors. DNV GL and PwC are the most recent investors.
 
 ## Business Activities:
