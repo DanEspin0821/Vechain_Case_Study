@@ -4,7 +4,7 @@
 
 ### What is VeChain
 
-* VeChain simply put, is a blockchain platform ["designed to enhance supply chain management and business processes. Its goal is to streamline these processes and information flow for complex supply chains through the use of distributed ledger technology (DLT)."](https://www.investopedia.com/terms/v/vechain.asp)
+* VeChain simply put, is a blockchain platform, "[designed to enhance supply chain management and business processes. Its goal is to streamline these processes and information flow for complex supply chains through the use of distributed ledger technology (DLT).](https://www.investopedia.com/terms/v/vechain.asp)", as stated within Investopedia.
 
 * Founded in June 2015, by Sunny Lu, current CEO, the former chief information officer (CIO) of Louis Vuitton China.
 
