@@ -19,9 +19,9 @@
 
 ### VeChain's Funding and Key Persons
 
-## [Team Members](https://www.vechain.com/about)
+## Team Members
 
-* Below are the key members of the VeChain organization and brief background on each member:
+* Below are the [key members](https://www.vechain.com/about) of the VeChain organization and brief background on each member:
   * Sunny Lu - Chief Executive Officer
       * Cofounder of the VeChain blockchain.  20 years experience as an IT executive. Launched the VeChain project in 2015, founded VeChain in early 2017. 
   * Jay Zhang - Chief Financial Officer
