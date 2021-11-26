@@ -6,7 +6,7 @@
 
 * VeChain simply put, is a blockchain platform, "[designed to enhance supply chain management and business processes. Its goal is to streamline these processes and information flow for complex supply chains through the use of distributed ledger technology (DLT).](https://www.investopedia.com/terms/v/vechain.asp)", as stated within Investopedia.
 
-* Founded in June 2015, by Sunny Lu, current CEO, the former chief information officer (CIO) of Louis Vuitton China.
+* VeChain was founded in June 2015, by Sunny Lu, current CEO, the former chief information officer (CIO) of Louis Vuitton China.
 
 * Sunny Lu graduated from Shanghai Jiao Tong University in China in 2002 with a BA in Electronics and Communication Engineering.
 
@@ -17,16 +17,20 @@
 
 * Mr. Lu learned about blockchain technology in 2013 and in the same year, he [co-founded a company called BitSE](https://blockchain.capitalmarketsciooutlook.com/vendor/bitse-transforming-supply-chain-through-blockchain-cid-88-mid-17.html). BitSE created a subsidiary company that lead to the creation of the VeChain blockchain. At the beginning of the venture, VeChain built its own permissioned blockchain based on the Ethereum network as a token. Later on, moving away from the Ethereum network, Vechain migrated to their own architecture and ecosystem.
 
-
 ### VeChain's Funding and Key Persons
 
-* VeChain landed its first client from the luxury industry where Sunny used to work, Louis Vuitton.  The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and is founded in Singapore.
+## Team Members
+
+* Below are the key members of the Vechain organization:
+  * Sunny Lu - CEO: He first proposed the idea that "blockchain adoption is driven by business needs". He officially launched the VeChain project in 2015, and founded VeChain in early 2017, which has major investors including Fenbushi Capital, Future Capital, PwC, and DNV.
+* The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and is founded in Singapore.
 
 * While undisclosed from multiple sources, Vechain has [recieved funding over 3 rounds](https://www.crunchbase.com/organization/vechain/investor_financials). Their latest funding was raised on May 5, 2018 from a Corporate Round round. Vechain is funded by 5 investors. DNV GL and PwC are the most recent investors.
+* Below are they key members of the VeChain company that oversees the maintanence and develoment of the VeChain blockchain.
 
 ## Business Activities:
 
-* VeChain’s vision and goal innovating in blockchain is to lower the barrier of entry for businesses and enabling established business with blockchain technology to create value and solve real world economic problems, according to their Whitepaper.
+* VeChain landed its first client from the luxury industry where Sunny used to work, Louis Vuitton.  VeChain’s vision and goal innovating in blockchain is to lower the barrier of entry for businesses and enabling established business with blockchain technology to create value and solve real world economic problems, according to their Whitepaper.
 
 * VeChain started business engagement for blockchain use cases implementing the first blockchain solution of anti-counterfeiting and traceability for luxury products in early 2016.
 
