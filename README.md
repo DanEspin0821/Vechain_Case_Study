@@ -22,7 +22,8 @@
 ## [Team Members](https://www.vechain.com/about)
 
 * Below are the key members of the VeChain organization and brief background on each member:
-  * Sunny Lu - Chief Executive Officer: Cofounder of the VeChain blockchain.  20 years experience as an IT executive. Launched the VeChain project in 2015, founded VeChain in early 2017. 
+  * Sunny Lu - Chief Executive Officer:
+   * Cofounder of the VeChain blockchain.  20 years experience as an IT executive. Launched the VeChain project in 2015, founded VeChain in early 2017. 
   * Jay Zhang - Chief Financial Officer: Cofounder of the VeChain blockchain. 15 years experience as senior manager in finance and risk management for PwC China, and Deloitte UK.  Currently in charge of VeChain's global corporate structure, governance, and financial management.
   * Jianliang Gu - Chief Technology Officer: Jianliang has 16 years experience in both hardware and software embedded system development and IT management. Joining VeChain in 2017, he is in charge of tech development, enterprise blockchain solutions, and IoT technologies.
   * Dr. Peter Zhou - Chief Scientist of Research & Development: 10 years experience in computer science research and development, with strong research background in blockchain, machine learning, and data analysis. He oversees the intellectual property protection.
