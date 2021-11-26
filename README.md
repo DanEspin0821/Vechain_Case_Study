@@ -22,19 +22,30 @@
 ## [Team Members](https://www.vechain.com/about)
 
 * Below are the key members of the VeChain organization and brief background on each member:
-  * Sunny Lu - Chief Executive Officer:
+  * Sunny Lu - Chief Executive Officer
       * Cofounder of the VeChain blockchain.  20 years experience as an IT executive. Launched the VeChain project in 2015, founded VeChain in early 2017. 
-  * Jay Zhang - Chief Financial Officer: Cofounder of the VeChain blockchain. 15 years experience as senior manager in finance and risk management for PwC China, and Deloitte UK.  Currently in charge of VeChain's global corporate structure, governance, and financial management.
-  * Jianliang Gu - Chief Technology Officer: Jianliang has 16 years experience in both hardware and software embedded system development and IT management. Joining VeChain in 2017, he is in charge of tech development, enterprise blockchain solutions, and IoT technologies.
-  * Dr. Peter Zhou - Chief Scientist of Research & Development: 10 years experience in computer science research and development, with strong research background in blockchain, machine learning, and data analysis. He oversees the intellectual property protection.
-  * Bin Qian - Chief Blockchain Architect: 10 years experience in mobile application development, Bin leads the architecture design, development, and iteration of VeChain blockchain infrastructure, building user-friend tools for developers.
-  * Yvette Xia - Chief Marketing Officer: Yvette oversees VeChain’s global marketing and communications in the enterprise blockchain space.
-  * Yanyu Chen - VP of Operations: 20 years of management experience in developing technology industries.  Focusing in cross-organisational and cross-cultural management.
-  * Scott Brisbin - General Counsel: 32 years experience, currently General Counsel since 2016, responsible for corporate legal matters, organization structure, and intellectual property protection.
-  * Jerome Grilleres - General Manager, VeChain Europe: 8 years experience, joining VeChain in 2017, Jerome is in charge of VeChain's business development for the whole Europe market.
-  * Jason Rockwood - Country Manager, VeChain US: 9 years experience in IT strategy, digital customer experience design, application development, and digital transformation. Extensive experience in IT services and management, in charge of the business development for the North America market.
-  * Arnaud Bauer - Ecosystem Manager, VeChain Europe: 5 years experience in IT system implementation and management, specializing in database architecture, JavaScript programming, and business intelligence consultancy.  Arnaud works with VeChain's business partners such as DNV in Europe to facilitate the adoption of blockchain solutions co-developed by VeChain and its partners.
-  * Dimitrios Neocleous - Ecosystem Manager, VeChain Europe: Joined VeChain in January 2019, he facilitates the adoption of VeChain enterprise solutions in Europe and supplements his legal expertise in VeChain's collaboration with national governments in Europe.
+  * Jay Zhang - Chief Financial Officer
+      * Cofounder of the VeChain blockchain. 15 years experience as senior manager in finance and risk management for PwC China, and Deloitte UK.  Currently in charge of VeChain's global corporate structure, governance, and financial management.
+  * Jianliang Gu - Chief Technology Officer 
+      * Jianliang has 16 years experience in both hardware and software embedded system development and IT management. Joining VeChain in 2017, he is in charge of tech development, enterprise blockchain solutions, and IoT technologies.
+  * Dr. Peter Zhou - Chief Scientist of Research & Development
+      *  10 years experience in computer science research and development, with strong research background in blockchain, machine learning, and data analysis. He oversees the intellectual property protection.
+  * Bin Qian - Chief Blockchain Architect
+      * 10 years experience in mobile application development, Bin leads the architecture design, development, and iteration of VeChain blockchain infrastructure, building user-friend tools for developers.
+  * Yvette Xia - Chief Marketing Officer
+      * Yvette oversees VeChain’s global marketing and communications in the enterprise blockchain space.
+  * Yanyu Chen - VP of Operations
+     * 20 years of management experience in developing technology industries.  Focusing in cross-organisational and cross-cultural management.
+  * Scott Brisbin - General Counsel
+     * 32 years experience, currently General Counsel since 2016, responsible for corporate legal matters, organization structure, and intellectual property protection.
+  * Jerome Grilleres - General Manager, VeChain Europe
+     * 8 years experience, joining VeChain in 2017, Jerome is in charge of VeChain's business development for the whole Europe market.
+  * Jason Rockwood - Country Manager, VeChain US
+    * 9 years experience in IT strategy, digital customer experience design, application development, and digital transformation. Extensive experience in IT services and management, in charge of the business development for the North America market.
+  * Arnaud Bauer - Ecosystem Manager, VeChain Europe
+    * 5 years experience in IT system implementation and management, specializing in database architecture, JavaScript programming, and business intelligence consultancy.  Arnaud works with VeChain's business partners such as DNV in Europe to facilitate the adoption of blockchain solutions co-developed by VeChain and its partners.
+  * Dimitrios Neocleous - Ecosystem Manager, VeChain Europe
+    * Joined VeChain in January 2019, he facilitates the adoption of VeChain enterprise solutions in Europe and supplements his legal expertise in VeChain's collaboration with national governments in Europe.
  
 * The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and is founded in Singapore.
 
