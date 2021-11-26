@@ -46,8 +46,13 @@
     * 5 years experience in IT system implementation and management, Arnaud works with VeChain's business partners such as DNV in Europe to facilitate the adoption of blockchain solutions co-developed by VeChain and its partners.
   * Dimitrios Neocleous - Ecosystem Manager, VeChain Europe
     * Joined VeChain in January 2019, he facilitates the adoption of VeChain enterprise solutions in Europe and supplements his legal expertise in VeChain's collaboration with national governments in Europe.
+
+## Business Structure
  
 * The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and is founded in Singapore.
+* THe below illustration visualizes the structure of the VeChain governence model:
+![VeChainStructure](VeChain_Structure.JPG)
+
 
 * While undisclosed from multiple sources, Vechain has [recieved funding over 3 rounds](https://www.crunchbase.com/organization/vechain/investor_financials). Their latest funding was raised on May 5, 2018 from a Corporate Round round. Vechain is funded by 5 investors. DNV GL and PwC are the most recent investors.
 * Below are they key members of the VeChain company that oversees the maintanence and develoment of the VeChain blockchain.
@@ -93,7 +98,7 @@
 
 * Fee delegation and TCC open doors that simply do not exist on other networks. Most importantly, When TCC is spent, VTHO is burned, ensuring the token economics remain intact and ensuring even more value will be brought to the network in the coming years.
 
-* ![VeChainMarket](VeChain_Market.JPG)
+![VeChainMarket](VeChain_Market.JPG)
 
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
