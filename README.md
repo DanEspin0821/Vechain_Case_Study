@@ -50,6 +50,7 @@
 ## Business Structure
  
 * The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and is founded in Singapore. The below illustration visualizes the structure of the [VeChain governence model](https://www.vechain.org/governance-charter/#bit_xbgep):![VeChainStructure](VeChain_Structure.PNG)
+* The Steering Committee is the governing body of the VeChain Foundation. It is selected by Stakeholders with Voting Authority. The Steering Committee is responsible for critical strategies and selects functional committee chairs to oversee the operational units of the Foundation. 
 
 * While undisclosed from multiple sources, Vechain has [recieved funding over 3 rounds](https://www.crunchbase.com/organization/vechain/investor_financials). Their latest funding was raised on May 5, 2018 from a Corporate Round round. Vechain is funded by 5 investors. DNV GL and PwC are the most recent investors.
 * Below are they key members of the VeChain company that oversees the maintanence and develoment of the VeChain blockchain.
@@ -138,3 +139,4 @@
 * https://vechaininsider.com/partnerships/a-complete-list-of-vechain-partnerships/#lvmh
 * https://blockchain.capitalmarketsciooutlook.com/vendor/bitse-transforming-supply-chain-through-blockchain-cid-88-mid-17.html
 * https://www.investopedia.com/terms/v/vechain.asp
+* https://www.vechain.org/governance-charter/#bit_65sv8
