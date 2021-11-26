@@ -21,8 +21,10 @@
 
 ## Team Members
 
-* Below are the key members of the Vechain organization:
-  * Sunny Lu - CEO: He first proposed the idea that "blockchain adoption is driven by business needs". He officially launched the VeChain project in 2015, and founded VeChain in early 2017, which has major investors including Fenbushi Capital, Future Capital, PwC, and DNV.
+* Below are the key members of the VeChain organization:
+  * Sunny Lu - CEO: Cofounder of the VeChain blockchain.  He first proposed the idea that blockchain adoption is driven by business needs. He officially launched the VeChain project in 2015, and founded VeChain in early 2017, which has major investors including Fenbushi Capital, Future Capital, PwC, and DNV. 
+  * Jay Zhang - VP of Finance: Jay Zhang had worked for PwC China and Deloitte UK as a senior manager in finance and risk management for 15 years before he co-founded VeChain in 2015 along with Sunny Lu. Jay is in charge of VeChain's global corporate structure, governance, and financial management.
+  * 
 * The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and is founded in Singapore.
 
 * While undisclosed from multiple sources, Vechain has [recieved funding over 3 rounds](https://www.crunchbase.com/organization/vechain/investor_financials). Their latest funding was raised on May 5, 2018 from a Corporate Round round. Vechain is funded by 5 investors. DNV GL and PwC are the most recent investors.
