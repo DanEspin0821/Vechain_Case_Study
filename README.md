@@ -19,7 +19,7 @@
 
 ### VeChain's Funding and Key Persons
 
-## Team Members
+## [Team Members](https://www.vechain.com/about)
 
 * Below are the key members of the VeChain organization:
   * Sunny Lu - CEO: Cofounder of the VeChain blockchain.  He has served as IT Executive in Fortune 500 companies nearly 20 years, He first proposed the idea that blockchain adoption is driven by business needs. He officially launched the VeChain project in 2015, and founded VeChain in early 2017, which has major investors including Fenbushi Capital, Future Capital, PwC, and DNV. 
