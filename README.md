@@ -21,9 +21,9 @@
 
 ## [Team Members](https://www.vechain.com/about)
 
-* Below are the key members of the VeChain organization:
-  * Sunny Lu - CEO: Cofounder of the VeChain blockchain.  He has served as IT Executive in Fortune 500 companies nearly 20 years, He first proposed the idea that blockchain adoption is driven by business needs. He officially launched the VeChain project in 2015, and founded VeChain in early 2017, which has major investors including Fenbushi Capital, Future Capital, PwC, and DNV. 
-  * Jay Zhang - VP of Finance: Cofounder of the VeChain blockchain.  He has worked for PwC China and Deloitte UK as a senior manager in finance and risk management for 15 years before he co-founded VeChain in 2015 along with Sunny Lu. Jay is in charge of VeChain's global corporate structure, governance, and financial management.
+* Below are the key members of the VeChain organization and brief background on each member:
+  * Sunny Lu - CEO: Cofounder of the VeChain blockchain.  He has served as IT Executive nearly 20 years, launched the VeChain project in 2015 and founded VeChain in early 2017. 
+  * Jay Zhang - VP of Finance: Cofounder of the VeChain blockchain.  15 years experience, as a senior manager in finance and risk management at firms such as PwC China, and Deloitte UK.  Currently in charge of VeChain's global corporate structure, governance, and financial management.
   * Jianliang Gu - VP of Technology: Jianliang has over 16 years' experience in both hardware and software embedded system development and IT management. Since joining VeChain in 2017, he has been in charge of the technology development, focusing on the development of enterprise blockchain solutions with the combination of blockchain and IoT technologies.
   * Dr. Peter Zhou - VP of Research & Development: With over 10 years' experience in computer science research and development, Dr. Zhou published his research results in international leading academic journal and conferences.  After joining VeChain in 2017, Peter has been leading the research and development of blockchain technology and the collaboration with universities worldwide. He is also in charge of the intellectual property protection.
   * Bin Qian - Chief Blockchain Architect: With over 10 years' experience in mobile application development, Bin leads his team in the architecture design, development and iteration of VeChain blockchain infrastructure, and his team is also tasked to build user-friend tools for developers.
