@@ -23,8 +23,10 @@
 
 * Below are the key members of the VeChain organization:
   * Sunny Lu - CEO: Cofounder of the VeChain blockchain.  He first proposed the idea that blockchain adoption is driven by business needs. He officially launched the VeChain project in 2015, and founded VeChain in early 2017, which has major investors including Fenbushi Capital, Future Capital, PwC, and DNV. 
-  * Jay Zhang - VP of Finance: Jay Zhang had worked for PwC China and Deloitte UK as a senior manager in finance and risk management for 15 years before he co-founded VeChain in 2015 along with Sunny Lu. Jay is in charge of VeChain's global corporate structure, governance, and financial management.
-  * 
+  * Jay Zhang - VP of Finance: Cofounder of the VeChain blockchain.  He has worked for PwC China and Deloitte UK as a senior manager in finance and risk management for 15 years before he co-founded VeChain in 2015 along with Sunny Lu. Jay is in charge of VeChain's global corporate structure, governance, and financial management.
+  * Jianliang Gu - VP of Technology: Since joining VeChain in 2017, he has been in charge of the technology development, focusing on the development of enterprise blockchain solutions with the combination of blockchain and IoT technologies.
+  * Dr. Peter Zhou - VP of Research & Development: After joining VeChain in 2017, Peter has been leading the research and development of blockchain technology and the collaboration with universities worldwide. He is also in charge of the intellectual property protection.
+  * Bin Qian - With over 10 years' experience in mobile application development, Bin leads his team in the architecture design, development and iteration of VeChain blockchain infrastructure, and his team is also tasked to build user-friend tools for developers.
 * The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and is founded in Singapore.
 
 * While undisclosed from multiple sources, Vechain has [recieved funding over 3 rounds](https://www.crunchbase.com/organization/vechain/investor_financials). Their latest funding was raised on May 5, 2018 from a Corporate Round round. Vechain is funded by 5 investors. DNV GL and PwC are the most recent investors.
