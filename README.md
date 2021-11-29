@@ -21,7 +21,7 @@
 
 ## Team Members
 
-* Below are the [key members](https://www.vechain.com/about) of the VeChain organization and brief background on each member:
+* Below are the [key members](https://www.vechain.com/about) of the VeChain organization and brief background on each member, highlighting the expertise that VeChains founding members brought together to build out the VeChain enterprise:
   * Sunny Lu - Chief Executive Officer
       * Cofounder of the VeChain blockchain.  20 years experience as an IT executive. Launched the VeChain project in 2015, founded VeChain in early 2017. 
   * Jay Zhang - Chief Financial Officer
@@ -50,7 +50,10 @@
 ## Business Structure
  
 * The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and is founded in Singapore. The below illustration visualizes the structure of the [VeChain governence model](https://www.vechain.org/governance-charter/#bit_xbgep):![VeChainStructure](VeChain_Structure.PNG)
-* The Steering Committee is the governing body of the VeChain Foundation. It is selected by Stakeholders with Voting Authority. The Steering Committee is responsible for critical strategies and selects functional committee chairs to oversee the operational units of the Foundation. 
+* The Steering Committee is the governing body of the VeChain Foundation. It is selected by Stakeholders with Voting Authority. The Steering Committee is responsible for critical strategies and selects functional committee chairs to oversee the operational units of the Foundation.
+* Stakeholders voting authority is comprised of three categories, which consists of nodes, such as Authority Masternodes, Economic X Nodes and Economic Nodes. Each category has different voting authority. Voting authority, or, how much of the cryptocurrency VeChain, is staked, determines how many votes the node may make.  The stakeholders can be individuals, corporations, government agencies, non-profit organizations and other institutions with a stake in the VeChain ecosystem, additionally Authority Masternode holders must go through Foundation’s identity verification and background check. The stakeholder voting mechanism ensures the inclusiveness of all designated stakeholders in the VeChainThor Blockchain ecosystem.
+###Protocol
+* To become an authorized node on the VeChain blockchain there is Know-Your-Client (KYC) documentation that must be completed in order for stakeholders to run a node. [An Authority Masternode is a server connected to the network running the VeChainThor full node software](https://vechainofficial.medium.com/https-medium-com-vechainofficial-authority-masternodes-4c1233c6f18e) and keeps a full copy of the blockchain. Authority Masternodes are the only full nodes on the VeChainThor blockchain that are authorized to validate and produce blocks.
 
 * While undisclosed from multiple sources, Vechain has [recieved funding over 3 rounds](https://www.crunchbase.com/organization/vechain/investor_financials). Their latest funding was raised on May 5, 2018 from a Corporate Round round. Vechain is funded by 5 investors. DNV GL and PwC are the most recent investors.
 * Below are they key members of the VeChain company that oversees the maintanence and develoment of the VeChain blockchain.
@@ -140,3 +143,4 @@
 * https://blockchain.capitalmarketsciooutlook.com/vendor/bitse-transforming-supply-chain-through-blockchain-cid-88-mid-17.html
 * https://www.investopedia.com/terms/v/vechain.asp
 * https://www.vechain.org/governance-charter/#bit_65sv8
+* https://vechainofficial.medium.com/https-medium-com-vechainofficial-authority-masternodes-4c1233c6f18e
