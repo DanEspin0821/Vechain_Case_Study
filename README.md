@@ -5,17 +5,16 @@
 ### What is VeChain
 
 * VeChain simply put, is a blockchain platform, "[designed to enhance supply chain management and business processes. Its goal is to streamline these processes and information flow for complex supply chains through the use of distributed ledger technology (DLT).](https://www.investopedia.com/terms/v/vechain.asp)", as stated within Investopedia.
+* VeChain's whitepaper, notes the vision of the company as VeChain’s vision as, "lowering the barrier and enabling established business with blockchain technology to create value and solve real world economic problems."
 
-* VeChain was founded in June 2015, by Sunny Lu, current CEO, the former chief information officer (CIO) of Louis Vuitton China.
-
-* Sunny Lu graduated from Shanghai Jiao Tong University in China in 2002 with a BA in Electronics and Communication Engineering.
+* VeChain was founded in June 2015, by Sunny Lu, current CEO, the former chief information officer (CIO) of Louis Vuitton China, and Jay Zhang, who previously had a role as a senior manager within Deloitte UK and PwC China.
 
 * Sunny held jobs with [Netstar, 3M, Bacardi, and for Louis Vuitton China in 2010.](https://cryptoupclose.com/vechain-founder-sunny-lu/#:~:text=VeChain%20founder%20Sunny%20Lu%20is%20on%20a%20mission,listed%20as%20VET%20or%20VechainThor%20on%20crypto%20exchanges).
 
 ### Beginnings of VeChain
 * VeChain’s development roots [can be traced](https://medium.com/vechain-foundation/special-feature-and-interview-with-vechain-ceo-sunny-lu-hosted-by-vechains-angel-investor-ee8a13e994b0) to the acquaintance of Sunny and Vitalik Buterin (Founder of the Ethereum Blockchain), through the Founder of Fenbushi Capital (one of VeChains early angel investors), Shen Bo in late 2015. The discussion between the two led to Sunny’s realization of the practicality of smart contract technology.
 
-* Mr. Lu learned about blockchain technology in 2013 and in the same year, he [co-founded a company called BitSE](https://blockchain.capitalmarketsciooutlook.com/vendor/bitse-transforming-supply-chain-through-blockchain-cid-88-mid-17.html). BitSE created a subsidiary company that lead to the creation of the VeChain blockchain. At the beginning of the venture, VeChain built its own permissioned blockchain based on the Ethereum network as a token. Later on, moving away from the Ethereum network, Vechain migrated to their own architecture and ecosystem.
+* Mr. Lu learned about blockchain technology in 2013 and in the same year, he [co-founded a company called BitSE](https://blockchain.capitalmarketsciooutlook.com/vendor/bitse-transforming-supply-chain-through-blockchain-cid-88-mid-17.html). BitSE created a subsidiary company, "VeChain", that lead to the creation of the VeChainThor blockchain. At the beginning of the venture, VeChain built its own permissioned blockchain based on the Ethereum network as a token. Later on, moving away from the Ethereum network, Vechain migrated to their own architecture and ecosystem.
 
 ### VeChain's Funding and Key Persons
 
@@ -52,11 +51,21 @@
 * The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and is founded in Singapore. The below illustration visualizes the structure of the [VeChain governence model](https://www.vechain.org/governance-charter/#bit_xbgep):![VeChainStructure](VeChain_Structure.PNG)
 * The Steering Committee is the governing body of the VeChain Foundation. It is selected by Stakeholders with Voting Authority. The Steering Committee is responsible for critical strategies and selects functional committee chairs to oversee the operational units of the Foundation.
 
-
 * While undisclosed from multiple sources, Vechain has [recieved funding over 3 rounds](https://www.crunchbase.com/organization/vechain/investor_financials). Their latest funding was raised on May 5, 2018 from a Corporate Round round. Vechain is funded by 5 investors. DNV GL and PwC are the most recent investors.
-* Below are they key members of the VeChain company that oversees the maintanence and develoment of the VeChain blockchain.
+* At the beginning, while VeChain was exploring the blockchain application scenarios and industry, partners were introduced to the executive team, in which [Fenbushi Capital, one of the first blockchain venture capital firms in Asia](https://www.fenbushicapital.vc/index_en.html), was one of the first partners looking into VeChain's offering, and ultimately becoming an angel investor. After that, [DNV and PwC also saw the potential in VeChain’s business model](https://medium.com/vechain-foundation/special-feature-and-interview-with-vechain-ceo-sunny-lu-hosted-by-vechains-angel-investor-ee8a13e994b0) and recognized Sunny and his team in the process of cooperation, and upgraded their involvement from partners to investors.
 
 ###Protocol
+
+##What's a Protocol?
+* A protocol [is a set of rules that governs the transfer of data between two or more electronic devices](https://medium.com/@genesishack/draft-what-are-blockchain-protocols-and-how-do-they-work-94815be5efa7).  Protocols on our devices are running behind the scenes for the everyday interneting that is now common place.  Protocols establish how information must be structured and how parties will send and recieve information.
+
+* Some examples of familiar internet protocols are:
+  *  TCP/IP
+  *   HTTPS
+  *   DNS
+
+
+
 * To become an authorized Masternode on the VeChain blockchain there is Know-Your-Client (KYC) documentation that must be completed in order for stakeholders to run a node. [An Authority Masternode is a server connected to the network running the VeChainThor full node software](https://vechainofficial.medium.com/https-medium-com-vechainofficial-authority-masternodes-4c1233c6f18e) and keeps a full copy of the blockchain. Authority Masternodes are the only full nodes on the VeChainThor blockchain that are authorized to validate and produce blocks.
 * Stakeholders voting authority is comprised of three categories, which consists of nodes, such as Authority Masternodes, Economic X Nodes and Economic Nodes. Each category has different voting authority. Voting authority, is largely determined by how much of the cryptocurrency VeChain, is staked, determines how many votes the node may make.  The stakeholders can be individuals, corporations, government agencies, non-profit organizations and other institutions with a stake in the VeChain ecosystem, additionally Authority Masternode holders must go through Foundation’s identity verification and background check. The stakeholder voting mechanism ensures the inclusiveness of all designated stakeholders in the VeChainThor Blockchain ecosystem.
 
@@ -146,3 +155,5 @@
 * https://www.investopedia.com/terms/v/vechain.asp
 * https://www.vechain.org/governance-charter/#bit_65sv8
 * https://vechainofficial.medium.com/https-medium-com-vechainofficial-authority-masternodes-4c1233c6f18e
+* https://www.fenbushicapital.vc/index_en.html
+* https://medium.com/@genesishack/draft-what-are-blockchain-protocols-and-how-do-they-work-94815be5efa7
