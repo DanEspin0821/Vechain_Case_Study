@@ -67,13 +67,22 @@
 * Those protocols are the underlying code that allows all Internet applications to run. Facebook, Amazon, Twitter, Google, Netflix, banking websites, news websites commonly used in our everyday lives run on one of these internet protocols.
 
 ## Blockchain Protocols
-* Like the internet, cryptocurrencies also [have their own protocols](https://blog.liquid.com/what-are-protocols-and-why-are-they-important).  Cryptocurrency protocols allow users to manage their data. They allow individuals, or businesses alike to create an account, or a wallet,on a protocol that can then be used to pay for services and make transact on other websites.
+* Like the internet, cryptocurrencies also [have their own protocols](https://blog.liquid.com/what-are-protocols-and-why-are-they-important).  Cryptocurrency protocols allow users to manage their data. They allow individuals, or businesses alike to create an account, or a wallet, on a protocol that can then be used to pay for services and make transact on other websites.
 
-## VeChains Protocol - Proof-of-Authority (PoA) & Multi Party Payment (MPP)
-* 
+## VeChains Protocol - Proof of Authority (PoA) & Multi Party Payment (MPP)
+* [The VeChainThor blockchain uses Proof of Authority as a consensus protocol](https://www.investopedia.com/terms/v/vechain.asp). There are 101 master nodes responsible for reaching consensus on transactions in VeChain’s blockchain. This differs from Bitcoin, which requires all nodes to vote on a transaction before reaching consensus.  
+
+* Anonymous nodes are not allowed within the VeChainThor blockchain, and disclosure of identity are an essential pre-requisite to becoming an authorized master node. According to VeChain’s [white paper](https://www.vechain.org/whitepaper/#header), this uses less power and does not require a minimum number of validators to reach consensus. 
+
+* Essentially, the Proof-Of-Authority (PoA) protocol is method that gives a small and designated number of blockchain actors the power to validate transactions or interactions with the network and to update its more or less distributed registry.
+* The MPP protocol, [is a global patent pending payment model within the underlying base protocol of the VeChainThor Blockchain](https://vechainofficial.medium.com/introducing-the-vechain-multi-party-payment-protocol-525daf1bee7), we define it as a tool within our Oracle Enabler tool allowing parties other than the sender involved in an on chain transaction to opt to pay for the network fees of this transaction to the blockchain. MPP is designed to facilitate transactions between multiple parties even if data is being moved from one non-token owner to another non-token owner. Therefore, everyday users will use the VeChainThor Blockchain with or without the knowledge of it. MPP enables seemingly no change to the end user experience and is what we strive for after our research with enterprise leaders.
 
 * To become an authorized Masternode on the VeChain blockchain there is Know-Your-Client (KYC) documentation that must be completed in order for stakeholders to run a node. [An Authority Masternode is a server connected to the network running the VeChainThor full node software](https://vechainofficial.medium.com/https-medium-com-vechainofficial-authority-masternodes-4c1233c6f18e) and keeps a full copy of the blockchain. Authority Masternodes are the only full nodes on the VeChainThor blockchain that are authorized to validate and produce blocks.
+
+* Per this protocol, votes are disbursed based on VET holdings and disclosure. VET holders without know-your customer (KYC) credentials and with 1 million tokens in their account are assigned 20% of all votes while VET holders with KYC and the same amount in their accounts are responsible for 30%.
+
 * Stakeholders voting authority is comprised of three categories, which consists of nodes, such as Authority Masternodes, Economic X Nodes and Economic Nodes. Each category has different voting authority. Voting authority, is largely determined by how much of the cryptocurrency VeChain, is staked, determines how many votes the node may make.  The stakeholders can be individuals, corporations, government agencies, non-profit organizations and other institutions with a stake in the VeChain ecosystem, additionally Authority Masternode holders must go through Foundation’s identity verification and background check. The stakeholder voting mechanism ensures the inclusiveness of all designated stakeholders in the VeChainThor Blockchain ecosystem.
+* The system of master nodes centralizes voting rights in a decentralized system. This is a result of the fact that VeChain caters to business's that require a differentiated level of service, allowing business to monitor the item or physical inventory they sell as the item is en route to verify its condition and authenticity. 
 
 ## Business Activities:
 
