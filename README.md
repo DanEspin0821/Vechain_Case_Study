@@ -115,13 +115,17 @@
 
 * VeChain employs a variety of technologies that interact with the blockchain.  VeChain utilizes a variety of technologies to accomplish its goal to streamline the supply chain sector. For example, [VeChain uses various types of Radio Frequency Identification (RFID) tags](https://www.securities.io/investing-in-vechain-vet-everything-you-need-to-know/) and sensors to monitor critical data during shipment. This information is broadcast in real-time across the blockchain.
 
+* Another technology employed by VeChain is a proprietary service called ToolChain.  [VeChain ToolChain is a self-developed comprehensive blockchain application platform](https://creamandpartners.com/vechain-toolchain-how-vechain-became-the-aws-of-public-blockchain/) backed by the VeChainThor blockchain. 
+* When enterprises sign up to use VeChain ToolChain, the software service includes readily customisable mobile applications, IoT chips and sensors, access to the VeChainThor blockchain, support from the VeChain team and access to VeChain’s unique native fee delegation functionality. The platform’s real-world readiness is significantly enhanced by ‘ToolChain Credits’ (TCC), a non-crypto credit that can be purchased by a business and spent writing data. 
 
 ## Landscape:
 
 * The company targets industries shown in the domains below:
 ![VeChainMarket](VeChain_Market.JPG)
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+* Reviewing each industry under VeChain's model is guided by the overarching principal of accountability and tracability, as trends over the last 5 to 10 years within each industries supply chain has been to reduce cost, and improve transparency along the supply chain.
+* For example within the food safety traceability industry, the FDA within the United States in 2020 began an initiative to improve traceability along the food supply chain, where [according to FDA](https://www.food-safety.com/articles/7268-fdas-focus-on-food-traceability), “The New Era of Smarter Food Safety represents a new approach to food safety, leveraging technology and other tools to create a safer and more digital, traceable food system.” Correspondingly, the New Era is built on four core elements to support FDA’s ultimate goal of reducing foodborne illness. One of those elements is Tech-Enabled Traceability.
+* Another industry is within the manufacture and imports of natural gas.  One of the largest problems facing this industry is [being able to produce more energy at lower cost with less emissions](https://www.hellenicshippingnews.com/challenges-and-trends-for-the-oil-and-gas-industry/). Trends within this industry have yielded a global community push for goverments to adopt a carbond credit / carbon tax initiatives. These initiatves have solutions within blockchain technology that offer businesses the capability to offset carbon output and earn certified government credits.
 
 * What are the other major companies in this domain?
 
@@ -165,3 +169,5 @@
 * https://www.investinblockchain.com/chinese-regulator-approved-197-blockchain-companies-only-one-crypto-project-you-can-invest-in/
 * https://www.semiconductors.org/taking-stock-of-chinas-semiconductor-industry/
 * https://www.ledgerinsights.com/vechain-blockchain-china-liquefied-natural-gas/
+* https://creamandpartners.com/vechain-toolchain-how-vechain-became-the-aws-of-public-blockchain/
+* https://www.food-safety.com/articles/7268-fdas-focus-on-food-traceability
