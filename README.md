@@ -7,7 +7,7 @@
 * VeChain simply put, is a blockchain platform, "[designed to enhance supply chain management and business processes. Its goal is to streamline these processes and information flow for complex supply chains through the use of distributed ledger technology (DLT).](https://www.investopedia.com/terms/v/vechain.asp)", as stated within Investopedia.
 * VeChain's whitepaper, notes the vision of the company as VeChain’s vision as, "lowering the barrier and enabling established business with blockchain technology to create value and solve real world economic problems."
 
-* VeChain was founded in June 2015, by Sunny Lu, current CEO, the former chief information officer (CIO) of Louis Vuitton China, and Jay Zhang, who previously had a role as a senior manager within Deloitte UK and PwC China.
+* VeChain was founded in June 2015, in China, by Sunny Lu, current CEO, the former chief information officer (CIO) of Louis Vuitton China, and Jay Zhang, who previously had a role as a senior manager within Deloitte UK and PwC China.
 
 * Sunny held jobs with [Netstar, 3M, Bacardi, and for Louis Vuitton China in 2010.](https://cryptoupclose.com/vechain-founder-sunny-lu/#:~:text=VeChain%20founder%20Sunny%20Lu%20is%20on%20a%20mission,listed%20as%20VET%20or%20VechainThor%20on%20crypto%20exchanges).
 
@@ -48,8 +48,7 @@
 
 ## Business Structure
  
-* The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and is founded in Singapore. The below illustration visualizes the structure of the [VeChain governence model](https://www.vechain.org/governance-charter/#bit_xbgep):![VeChainStructure](VeChain_Structure.PNG)
-* The Steering Committee is the governing body of the VeChain Foundation. It is selected by Stakeholders with Voting Authority. The Steering Committee is responsible for critical strategies and selects functional committee chairs to oversee the operational units of the Foundation.
+
 
 * While undisclosed from multiple sources, Vechain has [recieved funding over 3 rounds](https://www.crunchbase.com/organization/vechain/investor_financials). Their latest funding was raised on May 5, 2018 from a Corporate Round round. Vechain is funded by 5 investors. DNV GL and PwC are the most recent investors.
 * At the beginning, while VeChain was exploring the blockchain application scenarios and industry, partners were introduced to the executive team, in which [Fenbushi Capital, one of the first blockchain venture capital firms in Asia](https://www.fenbushicapital.vc/index_en.html), was one of the first partners looking into VeChain's offering, and ultimately becoming an angel investor. After that, [DNV and PwC also saw the potential in VeChain’s business model](https://medium.com/vechain-foundation/special-feature-and-interview-with-vechain-ceo-sunny-lu-hosted-by-vechains-angel-investor-ee8a13e994b0) and recognized Sunny and his team in the process of cooperation, and upgraded their involvement from partners to investors.
@@ -64,7 +63,7 @@
   *   HTTPS
   *   DNS
 
-* Those protocols are the underlying code that allows all Internet applications to run. Facebook, Amazon, Twitter, Google, Netflix, banking websites, news websites commonly used in our everyday lives run on one of these internet protocols.
+* The protocols above are the underlying code that allows all Internet applications to run. Facebook, Amazon, Twitter, Google, Netflix, banking websites, news websites commonly used in our everyday lives run on one of these internet protocols.
 
 ## Blockchain Protocols
 * Like the internet, cryptocurrencies also [have their own protocols](https://blog.liquid.com/what-are-protocols-and-why-are-they-important).  Cryptocurrency protocols allow users to manage their data. They allow individuals, or businesses alike to create an account, or a wallet, on a protocol that can then be used to pay for services and make transact on other websites.
@@ -75,65 +74,52 @@
 * Anonymous nodes are not allowed within the VeChainThor blockchain, and disclosure of identity are an essential pre-requisite to becoming an authorized master node. According to VeChain’s [white paper](https://www.vechain.org/whitepaper/#header), this uses less power and does not require a minimum number of validators to reach consensus. 
 
 * Essentially, the Proof-Of-Authority (PoA) protocol is method that gives a small and designated number of blockchain actors the power to validate transactions or interactions with the network and to update its more or less distributed registry.
-* The MPP protocol, [is a global patent pending payment model within the underlying base protocol of the VeChainThor Blockchain](https://vechainofficial.medium.com/introducing-the-vechain-multi-party-payment-protocol-525daf1bee7), we define it as a tool within our Oracle Enabler tool allowing parties other than the sender involved in an on chain transaction to opt to pay for the network fees of this transaction to the blockchain. MPP is designed to facilitate transactions between multiple parties even if data is being moved from one non-token owner to another non-token owner. Therefore, everyday users will use the VeChainThor Blockchain with or without the knowledge of it. MPP enables seemingly no change to the end user experience and is what we strive for after our research with enterprise leaders.
+
+* The MPP protocol, [is a global patent pending payment model within the underlying base protocol of the VeChainThor Blockchain](https://vechainofficial.medium.com/introducing-the-vechain-multi-party-payment-protocol-525daf1bee7), based on the VeChain Foundations defintion of its protocol, "it is a tool allowing parties other than the sender involved in an on chain transaction to opt to pay for the network fees of this transaction to the blockchain."
+
+* MPP is designed, such that everyday users will use the VeChainThor Blockchain with or without the knowledge of it. MPP enables seemingly no change to the end user experience and is what we strive for after our research with enterprise leaders.
+
+## Governance
+* The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and the VeChain team is headquartered in Shanghai.
+
+* The below illustration visualizes the structure of the [VeChain governence model](https://www.vechain.org/governance-charter/#bit_xbgep):![VeChainStructure](VeChain_Structure.PNG)
+* The Steering Committee is the governing body of the VeChain Foundation. It is selected by Stakeholders with Voting Authority. The Steering Committee is responsible for critical strategies and selects functional committee chairs to oversee the operational units of the Foundation.
 
 * To become an authorized Masternode on the VeChain blockchain there is Know-Your-Client (KYC) documentation that must be completed in order for stakeholders to run a node. [An Authority Masternode is a server connected to the network running the VeChainThor full node software](https://vechainofficial.medium.com/https-medium-com-vechainofficial-authority-masternodes-4c1233c6f18e) and keeps a full copy of the blockchain. Authority Masternodes are the only full nodes on the VeChainThor blockchain that are authorized to validate and produce blocks.
 
-* Per this protocol, votes are disbursed based on VET holdings and disclosure. VET holders without know-your customer (KYC) credentials and with 1 million tokens in their account are assigned 20% of all votes while VET holders with KYC and the same amount in their accounts are responsible for 30%.
+* When upgrades are needed a voting process is initiated to allow stakeholders a say in the changes being made. Votes are disbursed based on holding the underlying cryptocurrency, VeTHor, or VET, holdings and disclosure. VET holders without know-your customer (KYC) credentials and with 1 million tokens in their account are assigned 20% of all votes while VET holders with KYC and the same amount in their accounts are responsible for 30%.
 
-* Stakeholders voting authority is comprised of three categories, which consists of nodes, such as Authority Masternodes, Economic X Nodes and Economic Nodes. Each category has different voting authority. Voting authority, is largely determined by how much of the cryptocurrency VeChain, is staked, determines how many votes the node may make.  The stakeholders can be individuals, corporations, government agencies, non-profit organizations and other institutions with a stake in the VeChain ecosystem, additionally Authority Masternode holders must go through Foundation’s identity verification and background check. The stakeholder voting mechanism ensures the inclusiveness of all designated stakeholders in the VeChainThor Blockchain ecosystem.
-* The system of master nodes centralizes voting rights in a decentralized system. This is a result of the fact that VeChain caters to business's that require a differentiated level of service, allowing business to monitor the item or physical inventory they sell as the item is en route to verify its condition and authenticity. 
+* Stakeholders voting authority is comprised of three categories, which consists of nodes, such as [Authority Masternodes, Economic X Nodes and Economic Nodes](https://vechaininsider.com/guides/guide-to-vechain-nodes-and-node-rewards/). Each category has different voting authority. Voting authority, is largely determined by how much of the cryptocurrency VeChain, is staked, determines how many votes the node may make.
+
+* The stakeholders can be individuals, corporations, government agencies, non-profit organizations and other institutions with a stake in the VeChain ecosystem, additionally Authority Masternode holders must go through Foundation’s identity verification and background check. Per the VeChain whitepaper, the stakeholder voting mechanism ensures the inclusiveness of all designated stakeholders in the VeChainThor Blockchain ecosystem.
+
+* The system of master nodes centralizes voting rights in a decentralized system. Critiscm can be made This is a result of the fact that VeChain caters to business's that require a differentiated level of service, allowing business to monitor the item or physical inventory they sell as the item is en route to verify its condition and authenticity. 
 
 ## Business Activities:
 
-* VeChain landed its first client from the luxury industry where Sunny used to work, Louis Vuitton.  VeChain’s vision and goal innovating in blockchain is to lower the barrier of entry for businesses and enabling established business with blockchain technology to create value and solve real world economic problems, according to their Whitepaper.
+* VeChain started business engagement for blockchain use cases implementing the first blockchain solution of anti-counterfeiting and traceability for luxury products in early 2016.  According to their whitepaper, VeChain’s vision and goal innovating in blockchain is to lower the barrier of entry for businesses and enabling established business with blockchain technology to create value and solve real world economic problems.
 
-* VeChain started business engagement for blockchain use cases implementing the first blockchain solution of anti-counterfeiting and traceability for luxury products in early 2016.
+* VeChain's target audience are businesses that require [identification, verification, and confirmation](https://www.securities.io/investing-in-vechain-vet-everything-you-need-to-know/) within the supply chain process.
 
-* Prior to the creation of the public blockchain technology and even now, the cost of “trust” itself is very significant to all business stakeholders. The inherent lack of trust between parties discussed earlier meant that 3rd party trust providers are needed to facilitate transactions between multiple parties. This is where the multi-hundred billion dollar industry of C.T.I. (Certifications, Testing, Inspection) had been built to add lubrication to business communications and transactions.
+* This is a unique niche when looking at the market size of the users and stakeholders. According to [Deloitte’s 2019 Global Blockchain Survey](https://www2.deloitte.com/content/dam/insights/us/articles/2019-global-blockchain-survey/DI_2019-global-blockchain-survey.pdf), a poll of 1,386 senior executives from established business globally revealed 53% (10% YOY growth) indicated blockchain technology had become a critical priority for their organizations in 2019, backed by strong investment trends in new blockchain initiatives.  83% (10% YOY growth) indicated they saw compelling use cases for blockchain.
 
-* The industry is currently led by giants such as DNV GL, SGS, Intertek, NQA as well as consulting firms such as PricewaterhouseCoopers, and Deloitte.  These organizations sell their reputation and harbor an embodiment of trust in business.
+* Despite these trends, the top reason for the lack of adoption was indicated as a lack of in-house capabilities and uncertain ROI (“Return on Investment”) among the top 5 barriers considered by enterprises to increasing adoption and scale in blockchain technology.
 
-* However, these firms known to partner with large financial and tech firms alike, face the same issues with data storage, data management; this is where VeChain has built its niche and reputation.
+* One of the largest advantages that VeChain has over it's competitors is approval by the [Chinese Cyber Space Management Bureau](https://www.investinblockchain.com/chinese-regulator-approved-197-blockchain-companies-only-one-crypto-project-you-can-invest-in/). Blockchains must be approved by the bureau for the commercial use of blockchains by individuals or institutions. Adding to this fact that China [is the world’s largest manufacturing hub, producing 36% of the world’s electronics](https://www.semiconductors.org/taking-stock-of-chinas-semiconductor-industry/), including smartphones, computers, cloud servers, and telecom infrastructure.  China currently is the largest node in the global electronics supply chain. In addition, with nearly one-fifth of the world’s population, China is the second-largest final consumption market, after the U.S. for electronic devices embedded with semiconductors.
 
-* Data written on the blockchain itself is immutable, making data quality a key concern for businesses looking to utilize public blockchain. Even so, these data points can not be trusted to ensure the truthfulness of data by itself, nor can it be a quality check of what is being submitted. This is what is known as the ‘Garbage in – Garbage out’ problem that skeptical critics against blockchain argue.
+* The supply chain industry is often hand in hand with quality assurance providers currently led by giants such as DNV GL, SGS, Intertek, NQA as well as consulting firms such as PricewaterhouseCoopers, and Deloitte.  These organizations sell their reputation and harbor an embodiment of trust in business.
 
-* VeChain has been extremely intelligent in how it addresses this age-old issue. By partnering up with key providers who are leaders of C.T.I. industries such as DNV-GL, PwC and others, companies are able to ensure the quality of theirs and their supplier’s internal processes, providing assurance for the quality of data entering the blockchain in the first instance. By guaranteeing the quality of data, enterprise clients can enable numerous new kinds of collaborative business models.
+* Another advantage that VeChain has to its competitors is [partnership with is DNV GL the world’s largest and oldest assurance provider](https://supplychaindigital.com/technology-4/audit-giant-dnv-gl-partners-vechain-push-blockchain-technology). DNV GL's business model is to set the standards in certain industries like energy or medical. Governments and companies seek advice from DNV GL.  These kinds of partnerships, have harbored trusts that have landed VeChain contracts, such as natural gas projects, [aiming to provide a quality assurance process for the different types of natural gas in China](https://www.ledgerinsights.com/vechain-blockchain-china-liquefied-natural-gas/), are likely because of the sway of DNV GL.
 
-* In summary, VeChain solves the ‘Garbage in – Garbage out’ blockchain dilemma by bringing in global leaders in assurance to guarantee data quality. This is a win-win situation for both VeChain and assurance giants as the value of trust is now transparent and enhanced for all stakeholders.
-* There are many existing technical problems with other public blockchain platforms: the difficulty of writing data onto the blockchain, slow, scalability, costliness and costless, difficulty upgrading, fluctuating usage costs, which require users to store & manage crypto assets as well as pay transaction fees just to use it.
+* By partnering up with key providers who are leaders of quality assurance industries such as DNV-GL, PwC and others, companies are able to ensure the quality of theirs and their supplier’s internal processes, providing assurance for the quality of data entering the blockchain in the first instance. By guaranteeing the quality of data, enterprise clients can enable numerous new kinds of collaborative business models. This is a win-win situation for both VeChain and assurance giants as the value of trust is now transparent and enhanced for all stakeholders.
 
-* VeChain's Proof of Authority (PoA) mechanism eliminates the threat of foul play by bad actors, scales the blockchain, and preserves the ability of the Vechain Foundation to upgrade the blockchain when needed.
-
-* VeChain has a unique structure – there are 101 block producing nodes globally as part of its ‘Proof of Authority’ (PoA) consensus mechanism. This number strikes the perfect balance of decentralization, scalability and speed, perfectly addressing the blockchain trilemma. VeChainThor (VeChain’s public blockchain) has the agility to rapidly respond to any network issues, upgrade the protocol rapidly and facilitate the levels of throughput enterprise clientele demand to run at commercial scale. Software upgrades are carried out across all nodes uniformly, eliminating the risk of forks, as has happened with other leading networks, such as Ethereum and Bitcoin. This simultaneously addresses a key concern of businesses who are cautious about basing operations on-chain when a network fracture may negatively impact their digital assets or data.
-
-* VeChain’s block producers have to first undergo KYC by the Steering Committee, a group chaired by 7 individuals from global organizations such as DNV GL as well as senior VeChain figures. To further ensure decentralization of power, Steering Committee members are elected democratically by VeChain stakeholders.
-
-* As a result, VeChain is uniquely able to provide assurance about the individuals handling corporate data whilst ensuring bad actors can be immediately ejected from the network if there is any suspicion of attempted foul play. The PoA mechanism itself selects block producers randomly, meaning influencing block production is all but impossible, even if somehow, a majority of block producers knew each other’s identities. Critically, the data broadcast to the network is processed in a decentralized manner and the blockchain itself remains public and open source, with anyone being able read, write and to deploy their own applications and projects without permission. This maintains the critical openness necessary to give the public blockchain its economic value.
-
-* On other public blockchain networks, the price of transactions can fluctuate greatly. On Ethereum, this unpredictability is unpalatable for business users who demand forecastable costs for the weeks and months ahead. Scalability solutions proposed by other blockchain protocols are needlessly technical, complicated and a nightmare for businesses who require stability for their day-to-day processes.
-
-* VeChain solved this issue through the introduction of its unique two-token system, composed of VET and VTHO. VET, the native token generates VTHO, and VTHO is used to pay for transactions on the network. When network activity grows and VTHO gets too expensive as a result of increasing market demand, the cost of a transaction in VTHO terms can be reduced, allowing the network to maintain a stable transaction cost in dollar terms. Having these levers built into the token model make VeChain the only network capable of proactively managing the cost to use its network.
-
-* To take advantage of public blockchains, there are some unavoidable and problematic aspects to consider – managing tokens to interact with services and paying transaction fees are two of the most notable. For the average level of technical capability, managing wallets and using crypto is simply too difficult, too different and too much of a hurdle to be adopted on a wide-scale. With the invention of fee delegation, VeChain successfully removed one of the biggest hurdles of adoption, the need to directly manage crypto to pay to use the network.
-
-* VeChain solved the issue of users having to perform the action of paying for transaction costs to use a public blockchain with the invention of fee delegation, by letting designated 3rd parties pay for the transaction fees on behalf of the users.
-
-* Fee delegation simply means allowing a third party to pay the transaction fees instead of the user. While simple sounding, it is an ingenious and transformative solution to one of the biggest hurdles for blockchain adoption. With this technology, average citizens and businesses can use public blockchains without ever having to manage crypto assets or convert/spend them to broadcast a transaction. Instead, they can simply use a blockchain product, service or application as they would any other internet-based application.
-
-* The functionality of fee delegation was enhanced even further recently with the addition of the ‘ToolChain Credit’ (TCC) – a non-crypto credit that can be acquired by businesses with fiat and spent to write data to the blockchain when using ToolChain, VeChain’s all-in-one blockchain toolkit. This new addition completely removes the need for companies to interact with crypto, enabling the widest possible user base for the network by providing a solution for companies in legally grey jurisdictions, like the US and China.
-
-* Fee delegation and TCC open doors that simply do not exist on other networks. Most importantly, When TCC is spent, VTHO is burned, ensuring the token economics remain intact and ensuring even more value will be brought to the network in the coming years.
-
-![VeChainMarket](VeChain_Market.JPG)
-
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* VeChain employs a variety of technologies that interact with the blockchain.  VeChain utilizes a variety of technologies to accomplish its goal to streamline the supply chain sector. For example, [VeChain uses various types of Radio Frequency Identification (RFID) tags](https://www.securities.io/investing-in-vechain-vet-everything-you-need-to-know/) and sensors to monitor critical data during shipment. This information is broadcast in real-time across the blockchain.
 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
+* The company targets industries shown in the domains below:
+![VeChainMarket](VeChain_Market.JPG)
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
@@ -174,3 +160,8 @@
 * https://medium.com/@genesishack/draft-what-are-blockchain-protocols-and-how-do-they-work-94815be5efa7
 * https://blog.liquid.com/what-are-protocols-and-why-are-they-important
 * https://www.investopedia.com/terms/v/vechain.asp
+* https://vechaininsider.com/guides/guide-to-vechain-nodes-and-node-rewards/
+* https://www.securities.io/investing-in-vechain-vet-everything-you-need-to-know/
+* https://www.investinblockchain.com/chinese-regulator-approved-197-blockchain-companies-only-one-crypto-project-you-can-invest-in/
+* https://www.semiconductors.org/taking-stock-of-chinas-semiconductor-industry/
+* https://www.ledgerinsights.com/vechain-blockchain-china-liquefied-natural-gas/
