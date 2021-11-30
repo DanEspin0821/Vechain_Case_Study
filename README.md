@@ -54,9 +54,9 @@
 * While undisclosed from multiple sources, Vechain has [recieved funding over 3 rounds](https://www.crunchbase.com/organization/vechain/investor_financials). Their latest funding was raised on May 5, 2018 from a Corporate Round round. Vechain is funded by 5 investors. DNV GL and PwC are the most recent investors.
 * At the beginning, while VeChain was exploring the blockchain application scenarios and industry, partners were introduced to the executive team, in which [Fenbushi Capital, one of the first blockchain venture capital firms in Asia](https://www.fenbushicapital.vc/index_en.html), was one of the first partners looking into VeChain's offering, and ultimately becoming an angel investor. After that, [DNV and PwC also saw the potential in VeChain’s business model](https://medium.com/vechain-foundation/special-feature-and-interview-with-vechain-ceo-sunny-lu-hosted-by-vechains-angel-investor-ee8a13e994b0) and recognized Sunny and his team in the process of cooperation, and upgraded their involvement from partners to investors.
 
-###Protocol
+### Protocols
 
-##What's a Protocol?
+## What's a Protocol?
 * A protocol [is a set of rules that governs the transfer of data between two or more electronic devices](https://medium.com/@genesishack/draft-what-are-blockchain-protocols-and-how-do-they-work-94815be5efa7).  Protocols on our devices are running behind the scenes for the everyday interneting that is now common place.  Protocols establish how information must be structured and how parties will send and recieve information.
 
 * Some examples of familiar internet protocols are:
@@ -64,7 +64,13 @@
   *   HTTPS
   *   DNS
 
+* Those protocols are the underlying code that allows all Internet applications to run. Facebook, Amazon, Twitter, Google, Netflix, banking websites, news websites commonly used in our everyday lives run on one of these internet protocols.
 
+## Blockchain Protocols
+* Like the internet, cryptocurrencies also [have their own protocols](https://blog.liquid.com/what-are-protocols-and-why-are-they-important).  Cryptocurrency protocols allow users to manage their data. They allow individuals, or businesses alike to create an account, or a wallet,on a protocol that can then be used to pay for services and make transact on other websites.
+
+## VeChains Protocol - Proof-of-Authority (PoA) & Multi Party Payment (MPP)
+* 
 
 * To become an authorized Masternode on the VeChain blockchain there is Know-Your-Client (KYC) documentation that must be completed in order for stakeholders to run a node. [An Authority Masternode is a server connected to the network running the VeChainThor full node software](https://vechainofficial.medium.com/https-medium-com-vechainofficial-authority-masternodes-4c1233c6f18e) and keeps a full copy of the blockchain. Authority Masternodes are the only full nodes on the VeChainThor blockchain that are authorized to validate and produce blocks.
 * Stakeholders voting authority is comprised of three categories, which consists of nodes, such as Authority Masternodes, Economic X Nodes and Economic Nodes. Each category has different voting authority. Voting authority, is largely determined by how much of the cryptocurrency VeChain, is staked, determines how many votes the node may make.  The stakeholders can be individuals, corporations, government agencies, non-profit organizations and other institutions with a stake in the VeChain ecosystem, additionally Authority Masternode holders must go through Foundation’s identity verification and background check. The stakeholder voting mechanism ensures the inclusiveness of all designated stakeholders in the VeChainThor Blockchain ecosystem.
@@ -157,3 +163,5 @@
 * https://vechainofficial.medium.com/https-medium-com-vechainofficial-authority-masternodes-4c1233c6f18e
 * https://www.fenbushicapital.vc/index_en.html
 * https://medium.com/@genesishack/draft-what-are-blockchain-protocols-and-how-do-they-work-94815be5efa7
+* https://blog.liquid.com/what-are-protocols-and-why-are-they-important
+* https://www.investopedia.com/terms/v/vechain.asp
