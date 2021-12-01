@@ -135,6 +135,7 @@
   * [Moeco](https://moeco.io/#moeco_platform)'s decentralized platform is a web-interface that allows clients to manage their trackers data and receive actionable insights and alerts from it.
   * [Ripe](https://www.ripe.io/) platform empowers our food supply chain partners to offer quality food and transparency. our system tracks the journey of food, from seed to sale offering consumer satisfaction and faith that they are receiving the freshest, best product possible.
   * [OpenSC](https://opensc.org/vision.html) uses data collected directly from customer’s supply chains and continuously analyses it to Verify claims such as, deforestation-free palm oil, Confirming the right payments to coffee farmers, Only fishing where it is sustainable to do so.
+  * [OriginTrail](https://origintrail.io/case-studies/food-traceability), who utilizes customers scanning a QR code, consumers can meet farmers and learn about animal-friendly conditions on their farms.
 
 
 
@@ -183,5 +184,6 @@
 * https://moeco.io/#moeco_platform
 * https://www.ripe.io/
 * https://opensc.org/vision.html
+* https://origintrail.io/case-studies/food-traceability
 
 
