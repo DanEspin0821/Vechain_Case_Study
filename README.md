@@ -126,8 +126,13 @@
 * Reviewing each industry under VeChain's model is guided by the overarching principal of accountability and tracability, as trends over the last 5 to 10 years within each industries supply chain has been to reduce cost, and improve transparency along the supply chain.
 * For example within the food safety traceability industry, the FDA within the United States in 2020 began an initiative to improve traceability along the food supply chain, where [according to FDA](https://www.food-safety.com/articles/7268-fdas-focus-on-food-traceability), “The New Era of Smarter Food Safety represents a new approach to food safety, leveraging technology and other tools to create a safer and more digital, traceable food system.” Correspondingly, the New Era is built on four core elements to support FDA’s ultimate goal of reducing foodborne illness. One of those elements is Tech-Enabled Traceability.
 * Another industry is within the manufacture and imports of natural gas.  One of the largest problems facing this industry is [being able to produce more energy at lower cost with less emissions](https://www.hellenicshippingnews.com/challenges-and-trends-for-the-oil-and-gas-industry/). Trends within this industry have yielded a global community push for goverments to adopt a carbond credit / carbon tax initiatives. These initiatves have solutions within blockchain technology that offer businesses the capability to offset carbon output and earn certified government credits.
-
+* 
 * What are the other major companies in this domain?
+* However Vechain is not the only company attempting to create adoption of new technology within the supply chain industry:
+* Major companies, are also entering the space, as blockchain is clearly identified as a solution for supply chain management.
+* Major companies such as:
+  *IBM
+    *
 
 
 ## Results
