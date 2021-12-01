@@ -131,8 +131,9 @@
 * However Vechain is not the only company attempting to create adoption of new technology within the supply chain industry:
 * Major companies, are also entering the space, as blockchain is clearly identified as a solution for supply chain management.
 * Major companies such as:
-  *IBM
-    *
+  * [Everledger](https://everledger.io/our-platform/)supports demand generation, sustainability and compliance for global supply chains.
+  * Moeco- Moeco’s decentralized platform is a web-interface that allows clients to manage their trackers data and receive actionable insights and alerts from it. 
+
 
 
 ## Results
@@ -176,3 +177,5 @@
 * https://www.ledgerinsights.com/vechain-blockchain-china-liquefied-natural-gas/
 * https://creamandpartners.com/vechain-toolchain-how-vechain-became-the-aws-of-public-blockchain/
 * https://www.food-safety.com/articles/7268-fdas-focus-on-food-traceability
+* https://everledger.io/our-platform/
+
