@@ -132,7 +132,9 @@
 * Major companies, are also entering the space, as blockchain is clearly identified as a solution for supply chain management.
 * Major companies such as:
   * [Everledger](https://everledger.io/our-platform/)supports demand generation, sustainability and compliance for global supply chains.
-  * [Moeco](https://moeco.io/#moeco_platform)'s decentralized platform is a web-interface that allows clients to manage their trackers data and receive actionable insights and alerts from it. 
+  * [Moeco](https://moeco.io/#moeco_platform)'s decentralized platform is a web-interface that allows clients to manage their trackers data and receive actionable insights and alerts from it.
+  * [Ripe](https://www.ripe.io/) platform empowers our food supply chain partners to offer quality food and transparency. our system tracks the journey of food, from seed to sale offering consumer satisfaction and faith that they are receiving the freshest, best product possible.
+  * [OpenSC](https://opensc.org/vision.html) uses data collected directly from customer’s supply chains and continuously analyses it to Verify claims such as, deforestation-free palm oil, Confirming the right payments to coffee farmers, Only fishing where it is sustainable to do so.
 
 
 
@@ -179,4 +181,7 @@
 * https://www.food-safety.com/articles/7268-fdas-focus-on-food-traceability
 * https://everledger.io/our-platform/
 * https://moeco.io/#moeco_platform
+* https://www.ripe.io/
+* https://opensc.org/vision.html
+
 
