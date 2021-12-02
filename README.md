@@ -82,14 +82,14 @@
 * The protocols above are the underlying code that allows all Internet applications to run. Facebook, Amazon, Twitter, Google, Netflix, banking websites and news websites commonly used in our everyday lives run on one of these internet protocols.
 
 ## Blockchain Protocols
-* Like the internet, cryptocurrencies also [have their own protocols](https://blog.liquid.com/what-are-protocols-and-why-are-they-important).  Cryptocurrency protocols allow users to manage their data. They allow individuals or businesses to create an account, or a wallet, on a protocol that can then be used to pay for services and make transact on other websites.
+* Like the internet, cryptocurrencies also [have their own protocols](https://blog.liquid.com/what-are-protocols-and-why-are-they-important).  Cryptocurrency protocols allow users to manage their data. They allow individuals or businesses to create an account, or a wallet, on a protocol that can then be used to pay for services and transact on other websites.
 
 ## VeChains Protocol - Proof of Authority (PoA) & Multi Party Payment (MPP)
 * [The VeChainThor blockchain uses Proof of Authority as a consensus protocol](https://www.investopedia.com/terms/v/vechain.asp). There are 101 master nodes responsible for reaching consensus on transactions in VeChain’s blockchain. This differs from Bitcoin, which requires all nodes to vote on a transaction before reaching consensus.  
 
 * Anonymous nodes are not allowed within the VeChainThor blockchain, and disclosure of identity are an essential pre-requisite to becoming an authorized master node. According to VeChain’s [white paper](https://www.vechain.org/whitepaper/#header), this uses less power and does not require a minimum number of validators to reach consensus. 
 
-* Essentially, the Proof-Of-Authority (PoA) protocol is method that gives a small and designated number of blockchain actors the power to validate transactions or interactions with the network and to update its more or less distributed registry.
+* Essentially, the Proof-Of-Authority (PoA) protocol is a method that gives a small and designated number of approved users the power to validate transactions by creating blocks on the VeChainThor blockchain.
 
 * The MPP protocol, [is a global patent pending payment model within the underlying base protocol of the VeChainThor Blockchain](https://vechainofficial.medium.com/introducing-the-vechain-multi-party-payment-protocol-525daf1bee7), based on the VeChain Foundations defintion of its protocol, "it is a tool allowing parties other than the sender involved in an on chain transaction to opt to pay for the network fees of this transaction to the blockchain."
 
