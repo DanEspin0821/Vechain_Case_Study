@@ -69,13 +69,13 @@
 * While undisclosed from multiple sources, Vechain has [recieved funding over 3 rounds](https://www.crunchbase.com/organization/vechain/investor_financials). Their latest funding was raised on May 5, 2018 from a Corporate Round round. Vechain is funded by 5 investors. DNV GL and PwC are the most recent investors.
 * At the beginning, while VeChain was exploring the blockchain application scenarios and industry, partners were introduced to the executive team, in which [Fenbushi Capital, one of the first blockchain venture capital firms in Asia](https://www.fenbushicapital.vc/index_en.html), was one of the first partners looking into VeChain's offering, and ultimately becoming an angel investor. After that, [DNV and PwC also saw the potential in VeChain’s business model](https://medium.com/vechain-foundation/special-feature-and-interview-with-vechain-ceo-sunny-lu-hosted-by-vechains-angel-investor-ee8a13e994b0) and recognized Sunny and his team in the process of cooperation, and upgraded their involvement from partners to investors.
 
-### Protocols
+## Protocols
 
-## What's a Protocol?
+### What's a Protocol?
 * A protocol [is a set of rules that governs the transfer of data between two or more electronic devices](https://medium.com/@genesishack/draft-what-are-blockchain-protocols-and-how-do-they-work-94815be5efa7).  Protocols on our devices are running behind the scenes for the everyday interneting that is now common place.  Protocols establish how information must be structured and how parties will send and recieve information.
 
 * Some examples of familiar internet protocols are:
-  *  TCP/IP
+  *   TCP/IP
   *   HTTPS
   *   DNS
 
