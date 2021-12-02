@@ -81,10 +81,10 @@
 
 * The protocols above are the underlying code that allows all Internet applications to run. Facebook, Amazon, Twitter, Google, Netflix, banking websites and news websites commonly used in our everyday lives run on one of these internet protocols.
 
-## Blockchain Protocols
+### Blockchain Protocols
 * Like the internet, cryptocurrencies also [have their own protocols](https://blog.liquid.com/what-are-protocols-and-why-are-they-important).  Cryptocurrency protocols allow users to manage their data. They allow individuals or businesses to create an account, or a wallet, on a protocol that can then be used to pay for services and transact on other websites.
 
-## VeChains Protocol - Proof of Authority (PoA) & Multi Party Payment (MPP)
+### VeChains Protocol - Proof of Authority (PoA) & Multi Party Payment (MPP)
 * [The VeChainThor blockchain uses Proof of Authority as a consensus protocol](https://www.investopedia.com/terms/v/vechain.asp). There are 101 master nodes responsible for reaching consensus on transactions in VeChain’s blockchain. This differs from Bitcoin, which requires all nodes to vote on a transaction before reaching consensus.  
 
 * Anonymous nodes are not allowed within the VeChainThor blockchain, and disclosure of identity are an essential pre-requisite to becoming an authorized master node. According to VeChain’s [white paper](https://www.vechain.org/whitepaper/#header), this uses less power and does not require a minimum number of validators to reach consensus. 
