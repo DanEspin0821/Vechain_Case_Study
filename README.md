@@ -16,9 +16,9 @@
 
 * Mr. Lu learned about blockchain technology in 2013 and in the same year, he [co-founded a company called BitSE](https://blockchain.capitalmarketsciooutlook.com/vendor/bitse-transforming-supply-chain-through-blockchain-cid-88-mid-17.html). BitSE created a subsidiary company, "VeChain", that lead to the creation of the VeChainThor blockchain. At the beginning of the venture, VeChain built its own permissioned blockchain based on the Ethereum network as a token. Later on, moving away from the Ethereum network, Vechain migrated to their own architecture and ecosystem.
 
-### VeChain's Funding and Key Persons
+## VeChain's Funding and Key Persons
 
-## Team Members
+### Team Members
 
 * Below are the [key members](https://www.vechain.com/about) of the VeChain organization and brief background on each member, highlighting the expertise that VeChains founding members brought together to build out the VeChain enterprise:
   * Sunny Lu - Chief Executive Officer
