@@ -50,7 +50,7 @@
 
 ## Business Structure
  
-## Governance
+### Governance
 * The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and the VeChain team is headquartered in Shanghai.
 
 * The below illustration visualizes the structure of the [VeChain governence model](https://www.vechain.org/governance-charter/#bit_xbgep):![VeChainStructure](VeChain_Structure.PNG)
