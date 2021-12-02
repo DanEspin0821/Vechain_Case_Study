@@ -128,25 +128,25 @@ A local media report indicates that VeChain had been included in [China’s 5 ye
 ![VeChainMarket](VeChain_Market.JPG)
 
 * Reviewing each industry under VeChain's model is guided by the overarching principal of accountability and tracability, as trends over the last 5 to 10 years within each industries supply chain has been to reduce cost, and improve transparency along the supply chain.
-* For example within the food safety traceability industry, the FDA within the United States in 2020 began an initiative to improve traceability along the food supply chain, where [according to FDA](https://www.food-safety.com/articles/7268-fdas-focus-on-food-traceability), “The New Era of Smarter Food Safety represents a new approach to food safety, leveraging technology and other tools to create a safer and more digital, traceable food system.” Correspondingly, the New Era is built on four core elements to support FDA’s ultimate goal of reducing foodborne illness. One of those elements is Tech-Enabled Traceability.
+* The counterfeit market is a [$30 billion industry](https://cryptoticker.io/en/vechain-the-future-of-supply-chain-management-is-here/).  This trend is only going to continue as consumer markets, [according to a comprehensive research report by Market Research Future (MRFR)](https://www.globenewswire.com/en/news-release/2021/06/24/2252779/0/en/Anti-Counterfeit-Packaging-Market-to-reach-USD-237-81-billion-by-2027-Report-by-Market-Research-Future-MRFR.html), Anti-Counterfeit Packaging Market Research Report, "the market is projected to reach USD 237.81 billion by 2027 from an estimated USD 110.2 billion in 2020, at a CAGR of 12.93% from 2021 to 2027."
+* Examples of government bodies awareness is embodied within the food safety traceability industry, the FDA within the United States in 2020 began an initiative to improve traceability along the food supply chain, where [according to FDA](https://www.food-safety.com/articles/7268-fdas-focus-on-food-traceability), “The New Era of Smarter Food Safety represents a new approach to food safety, leveraging technology and other tools to create a safer and more digital, traceable food system.” Correspondingly, the New Era is built on four core elements to support FDA’s ultimate goal of reducing foodborne illness. One of those elements is Tech-Enabled Traceability.
 * Another industry is within the manufacture and imports of natural gas.  One of the largest problems facing this industry is [being able to produce more energy at lower cost with less emissions](https://www.hellenicshippingnews.com/challenges-and-trends-for-the-oil-and-gas-industry/). Trends within this industry have yielded a global community push for goverments to adopt a carbond credit / carbon tax initiatives. These initiatves have solutions within blockchain technology that offer businesses the capability to offset carbon output and earn certified government credits.
-
 
 * Vechain is not the only company attempting to create adoption of new technologies within the supply chain industry, whether through the usage of proprietary devices companies implement themselves or a mixture of devices synced with the blockchain.  Some of their top competitors are listed below:
 
-  * [Everledger](https://everledger.io/our-platform/)supports demand generation, sustainability and compliance for global supply chains.
-  * [Moeco](https://moeco.io/#moeco_platform)'s decentralized platform is a web-interface that allows clients to manage their trackers data and receive actionable insights and alerts from it.
+  * [Everledger](https://everledger.io/our-platform/) supports demand generation, sustainability and compliance for global supply chains.
+  * [Moeco's](https://moeco.io/#moeco_platform) decentralized platform is a web-interface that allows clients to manage their trackers data and receive actionable insights and alerts from it.
   * [Ripe](https://www.ripe.io/) platform empowers our food supply chain partners to offer quality food and transparency. our system tracks the journey of food, from seed to sale offering consumer satisfaction and faith that they are receiving the freshest, best product possible.
   * [OpenSC](https://opensc.org/vision.html) uses data collected directly from customer’s supply chains and continuously analyses it to Verify claims such as, deforestation-free palm oil, Confirming the right payments to coffee farmers, Only fishing where it is sustainable to do so.
   * [OriginTrail](https://origintrail.io/case-studies/food-traceability), who utilizes customers scanning a QR code, consumers can meet farmers and learn about animal-friendly conditions on their farms.
-
-
 
 ## Results
 
 * The VeChainThor blockchain has seem results that have garnered multiple of well known company partnerships. For example:
   * The blockchain found usage in verifiably tracing the results of an ecological project.  [ReSea Project](https://cryptoslate.com/vechain-vet-verifies-results-of-a-305-metric-tonne-plastic-clean-up-in-the-ocean/), a Danish company with a community-driven solution to remove plastic from oceans and rivers in Indonesia, cleared 305 metric tonnes of plastic waste from the ocean, with verified results using VeChain.
+  
   * With each new partnership, they are enabling enterprises to adopt new technologies. [Sam’s Club, a China-based subsidiary of Walmart](https://www.bluegatebs.com/2021/01/14/walmart-china-subsidiary-teams-up-with-vechain-to-trace-food-products/), partnered with VeChain for food traceability solutions. PricewaterhouseCoopers (PwC) assisted in the Sam’s Club Blockchain Traceability Platform project, which goals intended to ensure food safety and afford greater transparency to consumers in China. Since 2019 PwC China and Walmart China have been in close partnership developing a traceability platform on the VeChain blockchain called the Walmart China Blockchain Traceability Platform.
+  
   * San Marino, a small republic situated on the slopes of Mount Titano, on the Adriatic side of central Italy between the Emilia-Romagna and Marche regions and surrounded on all sides by the republic of Italy.  Have also taken to adopting blockchain.  For reference where San Marino is, see below:
 ![SanMarino](SanMarino.PNG)
   
@@ -212,5 +212,7 @@ A local media report indicates that VeChain had been included in [China’s 5 ye
 * https://www.cryptoeq.io/
 * https://usethebitcoin.com/list-of-vechain-partnerships/
 * http://news-en.vechain.com/usa-custom-sneaker-and-hi-tech-streetwear-marketplace-deadstock-adopts-vechains-blockchainiot-solutions-for-authenticity/
+* https://cryptoticker.io/en/vechain-the-future-of-supply-chain-management-is-here/
+* https://www.globenewswire.com/en/news-release/2021/06/24/2252779/0/en/Anti-Counterfeit-Packaging-Market-to-reach-USD-237-81-billion-by-2027-Report-by-Market-Research-Future-MRFR.html
 
 
