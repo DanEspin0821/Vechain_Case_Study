@@ -148,6 +148,8 @@ A local media report indicates that VeChain had been included in [China’s 5 ye
 
 * The VeChainThor blockchain has seem results that have garnered multiple of well known company partnerships. For example:
   * The blockchain found usage in verifiably tracing the results of an ecological project.  [ReSea Project](https://cryptoslate.com/vechain-vet-verifies-results-of-a-305-metric-tonne-plastic-clean-up-in-the-ocean/), a Danish company with a community-driven solution to remove plastic from oceans and rivers in Indonesia, cleared 305 metric tonnes of plastic waste from the ocean, with verified results using VeChain.
+  * With each new partnership, they are enabling enterprises to adopt new technologies. [Sam’s Club, a China-based subsidiary of Walmart](https://www.bluegatebs.com/2021/01/14/walmart-china-subsidiary-teams-up-with-vechain-to-trace-food-products/), partnered with VeChain for food traceability solutions. PricewaterhouseCoopers (PwC) assisted in the Sam’s Club Blockchain Traceability Platform project, which goals intended to ensure food safety and afford greater transparency to consumers in China. Since 2019 PwC China and Walmart China have been in close partnership developing a traceability platform on the VeChain blockchain called the Walmart China Blockchain Traceability Platform.
+  * San Marino, a small republic situated on the slopes of Mount Titano, on the Adriatic side of central Italy between the Emilia-Romagna and Marche regions and surrounded on all sides by the republic of Italy.  Have also taken to [adopting blockchain](https://www.dnv.com/news/san-marino-republic-adopts-blockchain-to-become-the-first-carbon-neutral-country--154173).
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -197,6 +199,8 @@ A local media report indicates that VeChain had been included in [China’s 5 ye
 * https://origintrail.io/case-studies/food-traceability
 * https://cointelegraph.com/news/san-marino-approves-vechain-enft-vaccination-certificate-that-s-verifiable-worldwide
 * https://cryptoslate.com/vechain-vet-verifies-results-of-a-305-metric-tonne-plastic-clean-up-in-the-ocean/
+* https://www.bluegatebs.com/2021/01/14/walmart-china-subsidiary-teams-up-with-vechain-to-trace-food-products/
+* https://www.dnv.com/news/san-marino-republic-adopts-blockchain-to-become-the-first-carbon-neutral-country--154173
 
 
 
