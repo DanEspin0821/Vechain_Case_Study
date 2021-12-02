@@ -7,7 +7,7 @@
 * VeChain simply put, is a blockchain platform, "[designed to enhance supply chain management and business processes. Its goal is to streamline these processes and information flow for complex supply chains through the use of distributed ledger technology (DLT).](https://www.investopedia.com/terms/v/vechain.asp)", as stated within Investopedia.
 * VeChain's whitepaper, notes the vision of the company as VeChain’s vision as, "lowering the barrier and enabling established business with blockchain technology to create value and solve real world economic problems."
 
-* VeChain was founded in June 2015, in China, by Sunny Lu, current CEO, the former chief information officer (CIO) of Louis Vuitton China, and Jay Zhang, who previously had a role as a senior manager within Deloitte UK and PwC China.
+* VeChain was founded June 2015 in China by Sunny Lu, current CEO and former chief information officer (CIO) of Louis Vuitton China and Jay Zhang, who previously had a role as a senior manager within Deloitte UK and PwC China.
 
 * Sunny held jobs with [Netstar, 3M, Bacardi, and for Louis Vuitton China in 2010.](https://cryptoupclose.com/vechain-founder-sunny-lu/#:~:text=VeChain%20founder%20Sunny%20Lu%20is%20on%20a%20mission,listed%20as%20VET%20or%20VechainThor%20on%20crypto%20exchanges).
 
