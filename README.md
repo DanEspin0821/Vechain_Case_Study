@@ -151,23 +151,34 @@ A local media report indicates that VeChain had been included in [China’s 5 ye
   * With each new partnership, they are enabling enterprises to adopt new technologies. [Sam’s Club, a China-based subsidiary of Walmart](https://www.bluegatebs.com/2021/01/14/walmart-china-subsidiary-teams-up-with-vechain-to-trace-food-products/), partnered with VeChain for food traceability solutions. PricewaterhouseCoopers (PwC) assisted in the Sam’s Club Blockchain Traceability Platform project, which goals intended to ensure food safety and afford greater transparency to consumers in China. Since 2019 PwC China and Walmart China have been in close partnership developing a traceability platform on the VeChain blockchain called the Walmart China Blockchain Traceability Platform.
   * San Marino, a small republic situated on the slopes of Mount Titano, on the Adriatic side of central Italy between the Emilia-Romagna and Marche regions and surrounded on all sides by the republic of Italy.  Have also taken to adopting blockchain.  For reference where San Marino is, see below:
 ![SanMarino](SanMarino.PNG)
+  
   * San Marino, [working with VeChain](https://www.dnv.com/news/san-marino-republic-adopts-blockchain-to-become-the-first-carbon-neutral-country--154173), began an initative for a "Low Carbon Ecosystem", proposed by DNV GL. The initiatve's goal is to reduce CO2 emissions and encourage environmentally friendly practices such as water saving, waste disposal and management. The practices will be rewarded through a utility token, the San Marino Innovation Token issued by San Marino Innovation, which is used to access services offered within the Republic. The introduction of the low carbon ecosystem represents a first global example of incentivization through the use of blockchain technology and a utility token.  THe project is unique in that it engages citizens, rewarding 'sustainable' behavior, while also meeting San Marino's CO2 emissions reduction, water saving, waste disposal, and management goals.
-  * VeChain has also been [adopted by H&M](https://vechain101.com/vechains-and-cos/), H&M is the second-largest global clothing retailer with over 5000 stores worldwide. Next to the H&M brand, the company runs five other brands, COS and Arket, are amongst those most recognizable.  Cos, a luxury subsidiary of the fast-fashion brand H&M, is using DNV GL’s MyStory tags running on VeChain to collect supply chain data for some of its product lines and share that information with its customers. Arket, another brand of H&M has been using VeChain to track sustainable wool since 2018.  In an AMA (Ask Me Anything) with the CEO, Sunny Lu, he noted over 4,000 items had been tracked using MyStory.
+  
+  * VeChain has also been [adopted by H&M](https://vechain101.com/vechains-and-cos/), H&M is the second-largest global clothing retailer with over 5000 stores worldwide. Next to the H&M brand, the company runs five other brands, COS and Arket, are amongst those most recognizable.  Cos, a luxury subsidiary of the fast-fashion brand H&M, is using DNV GL’s MyStory tags running on VeChain to collect supply chain data for some of its product lines and share that information with its customers. Arket, another brand of H&M has been using VeChain to track sustainable wool since 2018.  In an AMA (Ask Me Anything) with the CEO, Sunny Lu, he noted over 4,000 items had been tracked using MyStory platform.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+* VeChain, a Blockchain-as-a-service (BaaS) company, has several metrics that are often the measure of success.
+  
+  * Adoption - Like many blockchains, adoption is key for longevity. If no one uses the blockchain, if no developers build or create decentralized apps (dapps) withn the ecosystem, the project and blockchain may become defunct.  VeChain excels at this being named [one of the fastest growing start-ups](https://newslogical.com/vechain-named-one-of-the-fastest-growing-start-ups/), by SMEs rating agency, Early Metrics, as the rating agency noted VeChain has succeeded in advancing the development of its proprietary technology even with the COVID-19 pandemic.  As well as noted earlier, they have gained partnerships with large corperations and countries that have began building within the VeChain ecosystem.
+  
+  * Decentralization - This is clearly VeChains largest criticism.  [VeChain differs from other projects](https://www.securities.io/investing-in-vechain-vet-everything-you-need-to-know/) in that the developers behind this project had no desire to create a fully decentralized platform. Instead, their goal was to integrate the best features from both the DeFi (decentralized finance) and CeFi (centralized finance) sectors to integrate into supply chain managment.  VeChain acknowledges ultimately the VeChain blockchain was built for supply chain management, meaning there is essentially no reason a retail user needs the coin.
+  
+  * Transaction cost - VeChain [adopted a two-token model](https://www.cryptoeq.io/corereports/vechain-abridged): the VET token and the VTHO token. As explained in the post by cryptoeq.io, "The two-token economic model of the VeChainThor blockchain is designed to detach the cost of transacting on the blockchain with market volatility.  Simply put, this keeps the cost stable associated with transacting or executing smart contracts on the VeChainThor blockchain. VET is the primary token of VeChain and it has several uses. VET’s main use cases are to govern the network, store and transfer value. VTHO is the secondary transactional token or ‘gas’ token of VeChain. When executing transactions, a small amount of VTHO is required for the transactional cost. Companies and developers utilizing the blockchain must use VTHO to add data to the blockchain and create smart contracts. This is similar to Ethereum, only Ethereum is a single token blockchain and just uses ether for its gas payments. However, in Ethereum’s case, as token prices and network adoption increase, transaction fees also increase. Network congestion causes fees to rise and makes interacting with the blockchain impractical for some use cases. VeChain’s dual-token model aims to eliminate that issue and provide stable prices for their enterprise business environment. If fees become too high, the VeChain Foundation and Steering Committee are able to adjust the minimum amount of VTHO needed for a transaction (currently 21) and/or increase the issuance of VTHO per VET. This allows the market for VTHO to stay predictable for the companies using the chain. However, this is inarguably a centralized, top-down system where a small group can make dramatic changes to the protocol. All VET holders, enterprise and retail, are trusting the VeChain Foundation with their funds."
 
-* How is your company performing relative to competitors in the same domain?
+* Despite VeChain's lack of decentralization. VeChain has garnered trust, partnering with companies in the "Big 4" accounting firms PWC, and Deloitte, as well as [large corperations](https://usethebitcoin.com/list-of-vechain-partnerships/) alike such as Walmart, Louis Vitton, and H&M and most recently, a US custom sneaker and streetware company [Deadstock](http://news-en.vechain.com/usa-custom-sneaker-and-hi-tech-streetwear-marketplace-deadstock-adopts-vechains-blockchainiot-solutions-for-authenticity/).
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* I believe marketing needs to be [improved](https://ccdn.goodq.top/caches/4e3ec9666d6eaf80311d…MwMHgzMDAtOTAud2VicA_p_p100_p_3D_p_p100_p_3D.webp).
 
 * Why do you think that offering this product or service would benefit the company?
 
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+
+
 ## Appendix
 * https://cryptoupclose.com/vechain-founder-sunny-lu/#:~:text=VeChain%20founder%20Sunny%20Lu%20is%20on%20a%20mission,listed%20as%20VET%20or%20VechainThor%20on%20crypto%20exchanges.
 * https://medium.com/vechain-foundation/special-feature-and-interview-with-vechain-ceo-sunny-lu-hosted-by-vechains-angel-investor-ee8a13e994b0
@@ -205,5 +216,9 @@ A local media report indicates that VeChain had been included in [China’s 5 ye
 * https://www.bluegatebs.com/2021/01/14/walmart-china-subsidiary-teams-up-with-vechain-to-trace-food-products/
 * https://www.dnv.com/news/san-marino-republic-adopts-blockchain-to-become-the-first-carbon-neutral-country--154173
 * https://vechain101.com/vechains-and-cos/
+* https://newslogical.com/vechain-named-one-of-the-fastest-growing-start-ups/
+* https://www.cryptoeq.io/
+* https://usethebitcoin.com/list-of-vechain-partnerships/
+* http://news-en.vechain.com/usa-custom-sneaker-and-hi-tech-streetwear-marketplace-deadstock-adopts-vechains-blockchainiot-solutions-for-authenticity/
 
 
