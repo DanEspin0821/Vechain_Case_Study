@@ -46,6 +46,8 @@
   * Dimitrios Neocleous - Ecosystem Manager, VeChain Europe
     * Joined VeChain in January 2019, he facilitates the adoption of VeChain enterprise solutions in Europe and supplements his legal expertise in VeChain's collaboration with national governments in Europe.
 
+* Clearly, Vechain has a strong combined technical background at the Executive suite. [Many of these executives](https://medium.com/@blockchainpaper/fundamental-analysis-vechain-ven-8e148b290b79) come from Publicly Traded companies such as, HP, PwC, Barclays, Louis Vuitton, Deloitte, Shangri-La Hotels and 3M, highlighting the diverity coming to the table.
+
 ## Business Structure
  
 
@@ -107,13 +109,17 @@
 
 * One of the largest advantages that VeChain has over it's competitors is approval by the [Chinese Cyber Space Management Bureau](https://www.investinblockchain.com/chinese-regulator-approved-197-blockchain-companies-only-one-crypto-project-you-can-invest-in/). Blockchains must be approved by the bureau for the commercial use of blockchains by individuals or institutions. Adding to this fact that China [is the world’s largest manufacturing hub, producing 36% of the world’s electronics](https://www.semiconductors.org/taking-stock-of-chinas-semiconductor-industry/), including smartphones, computers, cloud servers, and telecom infrastructure.  China currently is the largest node in the global electronics supply chain. In addition, with nearly one-fifth of the world’s population, China is the second-largest final consumption market, after the U.S. for electronic devices embedded with semiconductors.
 
+* [Public blockchains do not curry the favor of the Chinese government](https://www.technologyreview.com/2019/10/28/75234/chinas-leaders-have-embraced-blockchains-erm-minus-the-decentralized-bit/). However, if the blockchain is centralized, where stakeholders, and often those [enterprise users](https://vechainofficial.medium.com/https-medium-com-vechainofficial-authority-masternodes-4c1233c6f18e) that want to monitor shipments. Hence, VeChain’s proof of authority consensus, coupled with partnering with business clients, makes the blockchain easily auditable, [posing less concern and garnering approval from the Chinese government](https://www.investing.com/news/cryptocurrency-news/geopolitical-effects-on-vechain-2570538). Enterprise clients such as [Walmart China, utilziing VeChain in food traceability](https://cointelegraph.com/news/walmart-china-subsidiary-teams-up-with-vechain-to-trace-food-products), and sovereign nations like [San Marino](https://cointelegraph.com/news/san-marino-approves-vechain-enft-vaccination-certificate-that-s-verifiable-worldwide) utilizing VeChain for a Covid Passport, necessitates trust-building through company transparency and examination. As a result, VeChain is becoming a favored blockchain solution in China.
+
+A local media report indicates that VeChain had been included in [China’s 5 year national development plan](https://vechainofficial.medium.com/vechains-national-level-partnership-b3bc792cb1f1), as the country looks to build out an digital e-yuan and their local Blockchain Service Network.
+
 * The supply chain industry is often hand in hand with quality assurance providers currently led by giants such as DNV GL, SGS, Intertek, NQA as well as consulting firms such as PricewaterhouseCoopers, and Deloitte.  These organizations sell their reputation and harbor an embodiment of trust in business.
 
 * Another advantage that VeChain has to its competitors is [partnership with is DNV GL the world’s largest and oldest assurance provider](https://supplychaindigital.com/technology-4/audit-giant-dnv-gl-partners-vechain-push-blockchain-technology). DNV GL's business model is to set the standards in certain industries like energy or medical. Governments and companies seek advice from DNV GL.  These kinds of partnerships, have harbored trusts that have landed VeChain contracts, such as natural gas projects, [aiming to provide a quality assurance process for the different types of natural gas in China](https://www.ledgerinsights.com/vechain-blockchain-china-liquefied-natural-gas/), are likely because of the sway of DNV GL.
 
 * By partnering up with key providers who are leaders of quality assurance industries such as DNV-GL, PwC and others, companies are able to ensure the quality of theirs and their supplier’s internal processes, providing assurance for the quality of data entering the blockchain in the first instance. By guaranteeing the quality of data, enterprise clients can enable numerous new kinds of collaborative business models. This is a win-win situation for both VeChain and assurance giants as the value of trust is now transparent and enhanced for all stakeholders.
 
-* VeChain employs a variety of technologies that interact with the blockchain.  VeChain utilizes a variety of technologies to accomplish its goal to streamline the supply chain sector. For example, [VeChain uses various types of Radio Frequency Identification (RFID) tags](https://www.securities.io/investing-in-vechain-vet-everything-you-need-to-know/) and sensors to monitor critical data during shipment. This information is broadcast in real-time across the blockchain.
+* VeChain employs a variety of technologies that interact with the blockchain.  VeChain utilizes a variety of technologies to accomplish its goal to streamline the supply chain sector. For example, [VeChain uses various types of Radio Frequency Identification (RFID) tags](https://www.securities.io/investing-in-vechain-vet-everything-you-need-to-know/) and sensors to monitor critical data during shipment. This information is broadcast in real-time across the blockchain.  In conjunction with this, Vechain makes their own ID sensors but they can integrate with other IoT sensors like a Quick Response (QR) codes, and Near Field Communication (NFC) codes.
 
 * Another technology employed by VeChain is a proprietary service called ToolChain.  [VeChain ToolChain is a self-developed comprehensive blockchain application platform](https://creamandpartners.com/vechain-toolchain-how-vechain-became-the-aws-of-public-blockchain/) backed by the VeChainThor blockchain. 
 * When enterprises sign up to use VeChain ToolChain, the software service includes readily customisable mobile applications, IoT chips and sensors, access to the VeChainThor blockchain, support from the VeChain team and access to VeChain’s unique native fee delegation functionality. The platform’s real-world readiness is significantly enhanced by ‘ToolChain Credits’ (TCC), a non-crypto credit that can be purchased by a business and spent writing data. 
@@ -126,11 +132,10 @@
 * Reviewing each industry under VeChain's model is guided by the overarching principal of accountability and tracability, as trends over the last 5 to 10 years within each industries supply chain has been to reduce cost, and improve transparency along the supply chain.
 * For example within the food safety traceability industry, the FDA within the United States in 2020 began an initiative to improve traceability along the food supply chain, where [according to FDA](https://www.food-safety.com/articles/7268-fdas-focus-on-food-traceability), “The New Era of Smarter Food Safety represents a new approach to food safety, leveraging technology and other tools to create a safer and more digital, traceable food system.” Correspondingly, the New Era is built on four core elements to support FDA’s ultimate goal of reducing foodborne illness. One of those elements is Tech-Enabled Traceability.
 * Another industry is within the manufacture and imports of natural gas.  One of the largest problems facing this industry is [being able to produce more energy at lower cost with less emissions](https://www.hellenicshippingnews.com/challenges-and-trends-for-the-oil-and-gas-industry/). Trends within this industry have yielded a global community push for goverments to adopt a carbond credit / carbon tax initiatives. These initiatves have solutions within blockchain technology that offer businesses the capability to offset carbon output and earn certified government credits.
-* 
-* What are the other major companies in this domain?
-* However Vechain is not the only company attempting to create adoption of new technology within the supply chain industry:
-* Major companies, are also entering the space, as blockchain is clearly identified as a solution for supply chain management.
-* Major companies such as:
+
+
+* Vechain is not the only company attempting to create adoption of new technologies within the supply chain industry, whether through the usage of proprietary devices companies implement themselves or a mixture of devices synced with the blockchain.  Some of their top competitors are listed below:
+
   * [Everledger](https://everledger.io/our-platform/)supports demand generation, sustainability and compliance for global supply chains.
   * [Moeco](https://moeco.io/#moeco_platform)'s decentralized platform is a web-interface that allows clients to manage their trackers data and receive actionable insights and alerts from it.
   * [Ripe](https://www.ripe.io/) platform empowers our food supply chain partners to offer quality food and transparency. our system tracks the journey of food, from seed to sale offering consumer satisfaction and faith that they are receiving the freshest, best product possible.
@@ -141,7 +146,8 @@
 
 ## Results
 
-* What has been the business impact of this company so far?
+* The VeChainThor blockchain has seem results that have garnered multiple of well known company partnerships. For example:
+  * The blockchain found usage in verifiably tracing the results of an ecological project.  [ReSea Project](https://cryptoslate.com/vechain-vet-verifies-results-of-a-305-metric-tonne-plastic-clean-up-in-the-ocean/), a Danish company with a community-driven solution to remove plastic from oceans and rivers in Indonesia, cleared 305 metric tonnes of plastic waste from the ocean, with verified results using VeChain.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -161,9 +167,12 @@
 * https://cryptoupclose.com/vechain-founder-sunny-lu/#:~:text=VeChain%20founder%20Sunny%20Lu%20is%20on%20a%20mission,listed%20as%20VET%20or%20VechainThor%20on%20crypto%20exchanges.
 * https://medium.com/vechain-foundation/special-feature-and-interview-with-vechain-ceo-sunny-lu-hosted-by-vechains-angel-investor-ee8a13e994b0
 * https://www.crunchbase.com/organization/vechain/investor_financials
+* https://medium.com/@blockchainpaper/fundamental-analysis-vechain-ven-8e148b290b79
 * https://www.vechain.org/whitepaper/#header
 * https://seekingalpha.com/amp/article/4415383-vechain-is-blockchain-investment-for-next-decade
+* https://www.investing.com/news/cryptocurrency-news/geopolitical-effects-on-vechain-2570538
 * https://creamandpartners.com/what-are-the-real-bottlenecks-for-blockchain-technology-adoption/
+* https://www.technologyreview.com/2019/10/28/75234/chinas-leaders-have-embraced-blockchains-erm-minus-the-decentralized-bit/
 * https://vechaininsider.com/partnerships/a-complete-list-of-vechain-partnerships/#lvmh
 * https://blockchain.capitalmarketsciooutlook.com/vendor/bitse-transforming-supply-chain-through-blockchain-cid-88-mid-17.html
 * https://www.investopedia.com/terms/v/vechain.asp
@@ -171,6 +180,7 @@
 * https://vechainofficial.medium.com/https-medium-com-vechainofficial-authority-masternodes-4c1233c6f18e
 * https://www.fenbushicapital.vc/index_en.html
 * https://medium.com/@genesishack/draft-what-are-blockchain-protocols-and-how-do-they-work-94815be5efa7
+* https://cointelegraph.com/news/walmart-china-subsidiary-teams-up-with-vechain-to-trace-food-products
 * https://blog.liquid.com/what-are-protocols-and-why-are-they-important
 * https://www.investopedia.com/terms/v/vechain.asp
 * https://vechaininsider.com/guides/guide-to-vechain-nodes-and-node-rewards/
@@ -185,5 +195,8 @@
 * https://www.ripe.io/
 * https://opensc.org/vision.html
 * https://origintrail.io/case-studies/food-traceability
+* https://cointelegraph.com/news/san-marino-approves-vechain-enft-vaccination-certificate-that-s-verifiable-worldwide
+* https://cryptoslate.com/vechain-vet-verifies-results-of-a-305-metric-tonne-plastic-clean-up-in-the-ocean/
+
 
 
