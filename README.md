@@ -50,7 +50,21 @@
 
 ## Business Structure
  
+## Governance
+* The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and the VeChain team is headquartered in Shanghai.
 
+* The below illustration visualizes the structure of the [VeChain governence model](https://www.vechain.org/governance-charter/#bit_xbgep):![VeChainStructure](VeChain_Structure.PNG)
+* The Steering Committee is the governing body of the VeChain Foundation. It is selected by Stakeholders with Voting Authority. The Steering Committee is responsible for critical strategies and selects functional committee chairs to oversee the operational units of the Foundation.
+
+* To become an authorized Masternode on the VeChain blockchain there is Know-Your-Client (KYC) documentation that must be completed in order for stakeholders to run a node. [An Authority Masternode is a server connected to the network running the VeChainThor full node software](https://vechainofficial.medium.com/https-medium-com-vechainofficial-authority-masternodes-4c1233c6f18e) and keeps a full copy of the blockchain. Authority Masternodes are the only full nodes on the VeChainThor blockchain that are authorized to validate and produce blocks.
+
+* When upgrades are needed a voting process is initiated to allow stakeholders a say in the changes being made. Votes are disbursed based on holding the underlying cryptocurrency, VeTHor, or VET, holdings and disclosure. VET holders without know-your customer (KYC) credentials and with 1 million tokens in their account are assigned 20% of all votes while VET holders with KYC and the same amount in their accounts are responsible for 30%.
+
+* Stakeholders voting authority is comprised of three categories, which consists of nodes, such as [Authority Masternodes, Economic X Nodes and Economic Nodes](https://vechaininsider.com/guides/guide-to-vechain-nodes-and-node-rewards/). Each category has different voting authority. Voting authority, is largely determined by how much of the cryptocurrency VeChain, is staked, determines how many votes the node may make.
+
+* The stakeholders can be individuals, corporations, government agencies, non-profit organizations and other institutions with a stake in the VeChain ecosystem, additionally Authority Masternode holders must go through Foundation’s identity verification and background check. Per the VeChain whitepaper, the stakeholder voting mechanism ensures the inclusiveness of all designated stakeholders in the VeChainThor Blockchain ecosystem.
+
+* The system of master nodes centralizes voting rights in a decentralized system. Critiscm can be made This is a result of the fact that VeChain caters to business's that require a differentiated level of service, allowing business to monitor the item or physical inventory they sell as the item is en route to verify its condition and authenticity. 
 
 * While undisclosed from multiple sources, Vechain has [recieved funding over 3 rounds](https://www.crunchbase.com/organization/vechain/investor_financials). Their latest funding was raised on May 5, 2018 from a Corporate Round round. Vechain is funded by 5 investors. DNV GL and PwC are the most recent investors.
 * At the beginning, while VeChain was exploring the blockchain application scenarios and industry, partners were introduced to the executive team, in which [Fenbushi Capital, one of the first blockchain venture capital firms in Asia](https://www.fenbushicapital.vc/index_en.html), was one of the first partners looking into VeChain's offering, and ultimately becoming an angel investor. After that, [DNV and PwC also saw the potential in VeChain’s business model](https://medium.com/vechain-foundation/special-feature-and-interview-with-vechain-ceo-sunny-lu-hosted-by-vechains-angel-investor-ee8a13e994b0) and recognized Sunny and his team in the process of cooperation, and upgraded their involvement from partners to investors.
@@ -80,22 +94,6 @@
 * The MPP protocol, [is a global patent pending payment model within the underlying base protocol of the VeChainThor Blockchain](https://vechainofficial.medium.com/introducing-the-vechain-multi-party-payment-protocol-525daf1bee7), based on the VeChain Foundations defintion of its protocol, "it is a tool allowing parties other than the sender involved in an on chain transaction to opt to pay for the network fees of this transaction to the blockchain."
 
 * MPP is designed, such that everyday users will use the VeChainThor Blockchain with or without the knowledge of it. MPP enables seemingly no change to the end user experience and is what we strive for after our research with enterprise leaders.
-
-## Governance
-* The Vechain Foundation today oversees the development, governance, and advancement of the VeChain ecosystem, and the VeChain team is headquartered in Shanghai.
-
-* The below illustration visualizes the structure of the [VeChain governence model](https://www.vechain.org/governance-charter/#bit_xbgep):![VeChainStructure](VeChain_Structure.PNG)
-* The Steering Committee is the governing body of the VeChain Foundation. It is selected by Stakeholders with Voting Authority. The Steering Committee is responsible for critical strategies and selects functional committee chairs to oversee the operational units of the Foundation.
-
-* To become an authorized Masternode on the VeChain blockchain there is Know-Your-Client (KYC) documentation that must be completed in order for stakeholders to run a node. [An Authority Masternode is a server connected to the network running the VeChainThor full node software](https://vechainofficial.medium.com/https-medium-com-vechainofficial-authority-masternodes-4c1233c6f18e) and keeps a full copy of the blockchain. Authority Masternodes are the only full nodes on the VeChainThor blockchain that are authorized to validate and produce blocks.
-
-* When upgrades are needed a voting process is initiated to allow stakeholders a say in the changes being made. Votes are disbursed based on holding the underlying cryptocurrency, VeTHor, or VET, holdings and disclosure. VET holders without know-your customer (KYC) credentials and with 1 million tokens in their account are assigned 20% of all votes while VET holders with KYC and the same amount in their accounts are responsible for 30%.
-
-* Stakeholders voting authority is comprised of three categories, which consists of nodes, such as [Authority Masternodes, Economic X Nodes and Economic Nodes](https://vechaininsider.com/guides/guide-to-vechain-nodes-and-node-rewards/). Each category has different voting authority. Voting authority, is largely determined by how much of the cryptocurrency VeChain, is staked, determines how many votes the node may make.
-
-* The stakeholders can be individuals, corporations, government agencies, non-profit organizations and other institutions with a stake in the VeChain ecosystem, additionally Authority Masternode holders must go through Foundation’s identity verification and background check. Per the VeChain whitepaper, the stakeholder voting mechanism ensures the inclusiveness of all designated stakeholders in the VeChainThor Blockchain ecosystem.
-
-* The system of master nodes centralizes voting rights in a decentralized system. Critiscm can be made This is a result of the fact that VeChain caters to business's that require a differentiated level of service, allowing business to monitor the item or physical inventory they sell as the item is en route to verify its condition and authenticity. 
 
 ## Business Activities:
 
@@ -169,13 +167,7 @@ A local media report indicates that VeChain had been included in [China’s 5 ye
 
 ## Recommendations
 
-* I believe marketing needs to be [improved](https://ccdn.goodq.top/caches/4e3ec9666d6eaf80311d…MwMHgzMDAtOTAud2VicA_p_p100_p_3D_p_p100_p_3D.webp).
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+* VeChain is working within many different industries, Vechain, unlike some competitors named earlier, may find it more difficult to deliver results for every niche.  My recommendation for VeChain is to begin carving out unique assets within a smaller niche to gain market dominance.  Another recommendation would be to change the model of the authorized nodes where essentially stakeholders monitoring data are the users and beneficiaries of owning a node.  It may be more beneficial to offer to the public the same benefit.  This may offer a more decentralized offering lending to the security of the network. In current state, if one masternode had a bad attacker, they could manipulate a block, albeit this should be caught by other nodes, this may not be the case with a limited number of master nodes. This does not mean that VeChain should eliminate their Know-Your-Clients (requirements), in fact, it may mean enhancing their KYC and upgrading to account for citizen owned master nodes.
 
 
 
