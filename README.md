@@ -79,10 +79,10 @@
   *   HTTPS
   *   DNS
 
-* The protocols above are the underlying code that allows all Internet applications to run. Facebook, Amazon, Twitter, Google, Netflix, banking websites, news websites commonly used in our everyday lives run on one of these internet protocols.
+* The protocols above are the underlying code that allows all Internet applications to run. Facebook, Amazon, Twitter, Google, Netflix, banking websites and news websites commonly used in our everyday lives run on one of these internet protocols.
 
 ## Blockchain Protocols
-* Like the internet, cryptocurrencies also [have their own protocols](https://blog.liquid.com/what-are-protocols-and-why-are-they-important).  Cryptocurrency protocols allow users to manage their data. They allow individuals, or businesses alike to create an account, or a wallet, on a protocol that can then be used to pay for services and make transact on other websites.
+* Like the internet, cryptocurrencies also [have their own protocols](https://blog.liquid.com/what-are-protocols-and-why-are-they-important).  Cryptocurrency protocols allow users to manage their data. They allow individuals or businesses to create an account, or a wallet, on a protocol that can then be used to pay for services and make transact on other websites.
 
 ## VeChains Protocol - Proof of Authority (PoA) & Multi Party Payment (MPP)
 * [The VeChainThor blockchain uses Proof of Authority as a consensus protocol](https://www.investopedia.com/terms/v/vechain.asp). There are 101 master nodes responsible for reaching consensus on transactions in VeChain’s blockchain. This differs from Bitcoin, which requires all nodes to vote on a transaction before reaching consensus.  
